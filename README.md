@@ -1,14 +1,11 @@
 # Awesome fonts
 Curated list of fonts and everything
 
-Free web fonts
---------------
+## Free web fonts
 * [Google Fonts](https://www.google.com/fonts)
 * [The League of Moveable Type](https://www.theleagueofmoveabletype.com/junction)
 
-Iconic fonts
-------------
-
+## Iconic fonts
 * [Font-Awesome](http://fontawesome.io) The iconic font and CSS toolkit
 * [fontello](http://fontello.com) Iconic fonts scissors 
   * [typicons.font](http://fontello.github.com/typicons.font/demo.html) transformed Typicons 
@@ -24,13 +21,19 @@ Iconic fonts
 * [FontAwesomeKit](https://github.com/PrideChung/FontAwesomeKit) Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons.
 * [icono](http://git.io/icono) One tag One icon, no font or svg, Pure CSS 
 
-Programming fonts
------------------
+## Programming fonts
 * [Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
 * [Meslo-Font](https://github.com/andreberg/Meslo-Font) Customized version of Apple's Menlo font
 * [FiraCode](https://github.com/tonsky/FiraCode) Monospaced font with programming ligatures
 
-Other
------
+## Other
 * [Lettering.js](https://github.com/davatron5000/Lettering.js)
 * [Font.js](http://pomax.nihongoresources.com/pages/Font.js/)
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+## Contribution
+
+Feel free to make a Pull request
