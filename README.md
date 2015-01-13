@@ -4,6 +4,7 @@ Curated list of fonts and everything
 ## Free web fonts
 * [Google Fonts](https://www.google.com/fonts)
 * [The League of Moveable Type](https://www.theleagueofmoveabletype.com/junction)
+* [Redacted](https://github.com/christiannaths/Redacted-Font) Keep your wireframes free of distracting Lorem Ipsum
 
 ## Iconic fonts
 * [Font-Awesome](http://fontawesome.io) The iconic font and CSS toolkit
