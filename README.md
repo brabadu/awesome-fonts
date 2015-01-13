@@ -27,6 +27,7 @@ Curated list of fonts and everything
 * [Meslo-Font](https://github.com/andreberg/Meslo-Font) Customized version of Apple's Menlo font
 * [FiraCode](https://github.com/tonsky/FiraCode) Monospaced font with programming ligatures
 * [Input](http://input.fontbureau.com) Flexible system of fonts designed specifically for code
+* [Source Code Pro](http://adobe-fonts.github.io/source-code-pro/)
 
 ## Other
 * [Lettering.js](https://github.com/davatron5000/Lettering.js)
