@@ -21,6 +21,11 @@ Curated list of fonts and everything
 * [zocial](https://github.com/adamstac/zocial) Sass and Compass CSS3 social buttons framework
 * [FontAwesomeKit](https://github.com/PrideChung/FontAwesomeKit) Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons.
 * [icono](http://git.io/icono) One tag One icon, no font or svg, Pure CSS 
+* [mfglabs-iconset](http://mfglabs.github.com/mfglabs-iconset/) Awesome web font icon by MFG Labs
+* [stackicons](https://github.com/parkerbennett/stackicons) Icon font and Sass-based construction kit for Stackicons-Social, which supports multiple button shapes and a unique "multi-color" option in CSS for over 60 social brands
+* [IcoMoon-Free](https://icomoon.io) A package of flat vector icons together with an installable ligature font
+* [PE-Analog-Clock-icon-font](https://github.com/jhogue/PE-Analog-Clock-icon-font) A set of icons for displaying a visual ("analog") representation of time stamps
+* [weather-icons](http://erikflowers.github.io/weather-icons/) 189 weather themed icons inspired by Font Awesome and ready for Bootstrap
 
 ## Programming fonts
 * [Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
