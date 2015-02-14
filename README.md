@@ -1,6 +1,9 @@
 # Awesome fonts
 Curated list of fonts and everything
 
+## General
+* [27 fonts (give or take) that explain your world](http://www.vox.com/2015/2/8/7475667/27-fonts-give-or-take-that-explain-your-world)
+
 ## Free web fonts
 * [Google Fonts](https://www.google.com/fonts)
   * [Downloader for Google Fonts](https://github.com/qrpike/Web-Font-Load)
