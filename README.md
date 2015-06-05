@@ -32,6 +32,7 @@ Curated list of fonts and everything
 * [IcoMoon-Free](https://icomoon.io) A package of flat vector icons together with an installable ligature font
 * [PE-Analog-Clock-icon-font](https://github.com/jhogue/PE-Analog-Clock-icon-font) A set of icons for displaying a visual ("analog") representation of time stamps
 * [weather-icons](http://erikflowers.github.io/weather-icons/) 189 weather themed icons inspired by Font Awesome and ready for Bootstrap
+* [Font Custom](https://github.com/FontCustom/fontcustom) icon fonts generator
 
 ## Programming fonts
 * [Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
@@ -43,9 +44,20 @@ Curated list of fonts and everything
   * [PragmataPro](http://www.fsd.it/fonts/pragmatapro.htm) proprietary font with special ligatures for Haskell, Agda, APL etc.
   * [Hasklig](https://github.com/i-tu/Hasklig)
 
-## Other
+## JavaScript libs
 * [Lettering.js](https://github.com/davatron5000/Lettering.js)
 * [Font.js](http://pomax.nihongoresources.com/pages/Font.js/)
+* [fontmin](https://github.com/ecomfe/fontmin) font minifier
+* [localFont](https://github.com/jaicab/localFont) save fonts in localStorage
+* Event listener for fonts loading on a web page:
+  * [Font Face Observer](https://github.com/bramstein/fontfaceobserver) 
+  * [Web Font Loader](https://github.com/typekit/webfontloader)
+  
+## Other
+* [font](https://github.com/Benvie/font) extracts metadata from otf/ttf font files
+* [Command line font-manager](https://github.com/penman/font)
+* [Powerline Fonts](https://github.com/powerline/fonts) - patched fonts for Powerline users
+* [FontForge](https://github.com/fontforge/fontforge) cross-platform font editor
 
 ## License
 
