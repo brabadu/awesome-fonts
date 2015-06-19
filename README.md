@@ -35,6 +35,7 @@ Curated list of fonts and everything
 * [Font Custom](https://github.com/FontCustom/fontcustom) icon fonts generator
 
 ## Programming fonts
+* [Codeface](https://github.com/chrissimpkins/codeface gallery of monospaced fonts for developers
 * [Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
 * [Meslo-Font](https://github.com/andreberg/Meslo-Font) Customized version of Apple's Menlo font
 * [Input](http://input.fontbureau.com) Flexible system of fonts designed specifically for code
