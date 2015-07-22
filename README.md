@@ -3,6 +3,8 @@ Curated list of fonts and everything
 
 ## General
 * [27 fonts (give or take) that explain your world](http://www.vox.com/2015/2/8/7475667/27-fonts-give-or-take-that-explain-your-world)
+* [Fonts In Use](http://fontsinuse.com/) is a public archive of typography
+* [Typewolf](http://www.typewolf.com/)
 
 ## Free fonts
 * [Google Fonts](https://www.google.com/fonts)
@@ -36,7 +38,7 @@ Curated list of fonts and everything
 * [Font Custom](https://github.com/FontCustom/fontcustom) icon fonts generator
 
 ## Programming fonts
-* [Codeface](https://github.com/chrissimpkins/codeface gallery of monospaced fonts for developers
+* [Codeface](https://github.com/chrissimpkins/codeface) gallery of monospaced fonts for developers
 * [Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
 * [Meslo-Font](https://github.com/andreberg/Meslo-Font) Customized version of Apple's Menlo font
 * [Input](http://input.fontbureau.com) Flexible system of fonts designed specifically for code
