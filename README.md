@@ -43,6 +43,7 @@ Curated list of fonts and everything
 * [Meslo-Font](https://github.com/andreberg/Meslo-Font) Customized version of Apple's Menlo font
 * [Input](http://input.fontbureau.com) Flexible system of fonts designed specifically for code
 * [Source Code Pro](http://adobe-fonts.github.io/source-code-pro/)
+* [Monoid](https://github.com/larsenwork/monoid)
 * Programming fonts with ligatures:
   * [FiraCode](https://github.com/tonsky/FiraCode) Monospaced font with programming ligatures
   * [PragmataPro](http://www.fsd.it/fonts/pragmatapro.htm) proprietary font with special ligatures for Haskell, Agda, APL etc.
