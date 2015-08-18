@@ -52,6 +52,7 @@ Curated list of fonts and everything
 ## JavaScript libs
 * [Lettering.js](https://github.com/davatron5000/Lettering.js)
 * [Font.js](http://pomax.nihongoresources.com/pages/Font.js/)
+* [Typeset.js](https://github.com/davidmerfield/typeset) - HTML pre-processor for web typography.
 * [fontmin](https://github.com/ecomfe/fontmin) font minifier
 * [localFont](https://github.com/jaicab/localFont) save fonts in localStorage
 * Event listener for fonts loading on a web page:
