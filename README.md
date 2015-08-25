@@ -44,6 +44,7 @@ Curated list of fonts and everything
 * [Input](http://input.fontbureau.com) Flexible system of fonts designed specifically for code
 * [Source Code Pro](http://adobe-fonts.github.io/source-code-pro/)
 * [Monoid](https://github.com/larsenwork/monoid)
+* [Hack](https://github.com/chrissimpkins/Hack)
 * Programming fonts with ligatures:
   * [FiraCode](https://github.com/tonsky/FiraCode) Monospaced font with programming ligatures
   * [PragmataPro](http://www.fsd.it/fonts/pragmatapro.htm) proprietary font with special ligatures for Haskell, Agda, APL etc.
