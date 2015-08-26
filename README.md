@@ -36,6 +36,7 @@ Curated list of fonts and everything
 * [PE-Analog-Clock-icon-font](https://github.com/jhogue/PE-Analog-Clock-icon-font) A set of icons for displaying a visual ("analog") representation of time stamps
 * [weather-icons](http://erikflowers.github.io/weather-icons/) 189 weather themed icons inspired by Font Awesome and ready for Bootstrap
 * [Font Custom](https://github.com/FontCustom/fontcustom) icon fonts generator
+* [Evil Icons](http://evil-icons.io/) Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN.
 
 ## Programming fonts
 * [Codeface](https://github.com/chrissimpkins/codeface) gallery of monospaced fonts for developers
