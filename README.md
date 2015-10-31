@@ -12,6 +12,7 @@ Curated list of fonts and everything
   * [Files of Google Fonts](https://github.com/google/fonts) ([sources](https://github.com/googlefonts))
   * [Downloader for Google Fonts](https://github.com/qrpike/Web-Font-Load)
   * [Roboto](https://github.com/google/roboto) default font on Android/ ChromeOS, and the recommended for Material Design
+  * [Noto Fonts](https://github.com/googlei18n/noto-fonts) Internationalized font for all languages, with rich support for CJK and emoji.
 * [The League of Moveable Type](https://www.theleagueofmoveabletype.com/junction)
 * [Redacted](https://github.com/christiannaths/Redacted-Font) Keep your wireframes free of distracting Lorem Ipsum
 * [WorkSans](https://github.com/weiweihuanghuang/Work-Sans)
