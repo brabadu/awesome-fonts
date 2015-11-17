@@ -39,6 +39,7 @@ Curated list of fonts and everything
 * [typicons.font](http://typicons.com) 336 pixel perfect, all-purpose vector icons in a web-font kit 
 * [weather-icons](http://erikflowers.github.io/weather-icons/) 189 weather themed icons inspired by Font Awesome and ready for Bootstrap
 * [zocial](https://github.com/adamstac/zocial) Sass and Compass CSS3 social buttons framework
+* [Appa Sariicon](https://github.com/sariina/appa-sariicon) 147 8-bit retro style webfont icons form web and mobile
 
 ## Programming fonts
 * [Codeface](https://github.com/chrissimpkins/codeface) gallery of monospaced fonts for developers
