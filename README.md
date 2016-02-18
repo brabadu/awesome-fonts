@@ -26,18 +26,18 @@ Curated list of fonts and everything
 * [FontAwesomeKit](https://github.com/PrideChung/FontAwesomeKit) Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons.
 * [fontello](http://fontello.com) Iconic fonts scissors
   * [brandico.font](http://fontello.github.io/brandico.font/demo.html) Font with logos of social services & messagers
-  * [fontelico.font](http://fontello.github.com/fontelico.font/demo.html) Opensource iconic font from Fontello project 
-  * [typicons.font](http://fontello.github.com/typicons.font/demo.html) transformed Typicons 
+  * [fontelico.font](http://fontello.github.com/fontelico.font/demo.html) Opensource iconic font from Fontello project
+  * [typicons.font](http://fontello.github.com/typicons.font/demo.html) transformed Typicons
 * [IcoMoon-Free](https://icomoon.io) A package of flat vector icons together with an installable ligature font
-* [icono](http://git.io/icono) One tag One icon, no font or svg, Pure CSS 
-* [ionicons](http://ionicons.com/) The premium icon font for Ionic 
+* [icono](http://git.io/icono) One tag One icon, no font or svg, Pure CSS
+* [ionicons](http://ionicons.com/) The premium icon font for Ionic
 * [mfglabs-iconset](http://mfglabs.github.com/mfglabs-iconset/) Awesome web font icon by MFG Labs
-* [octicons](https://octicons.github.com/) GitHub's icon font 
+* [octicons](https://octicons.github.com/) GitHub's icon font
 * [openwebicons](http://pfefferle.github.io/openwebicons/) Because Font Awesome had no RSS-icon and a font with only one icon would be a bit boring
-* [PaymentFont](http://paymentfont.io) A sleek webfont containing 94 icons of all main payment operators and methods 
+* [PaymentFont](http://paymentfont.io) A sleek webfont containing 94 icons of all main payment operators and methods
 * [PE-Analog-Clock-icon-font](https://github.com/jhogue/PE-Analog-Clock-icon-font) A set of icons for displaying a visual ("analog") representation of time stamps
 * [stackicons](https://github.com/parkerbennett/stackicons) Icon font and Sass-based construction kit for Stackicons-Social, which supports multiple button shapes and a unique "multi-color" option in CSS for over 60 social brands
-* [typicons.font](http://typicons.com) 336 pixel perfect, all-purpose vector icons in a web-font kit 
+* [typicons.font](http://typicons.com) 336 pixel perfect, all-purpose vector icons in a web-font kit
 * [weather-icons](http://erikflowers.github.io/weather-icons/) 189 weather themed icons inspired by Font Awesome and ready for Bootstrap
 * [zocial](https://github.com/adamstac/zocial) Sass and Compass CSS3 social buttons framework
 * [Appa Sariicon](https://github.com/sariina/appa-sariicon) 147 8-bit retro style webfont icons form web and mobile
@@ -52,10 +52,11 @@ Curated list of fonts and everything
 * [Meslo-Font](https://github.com/andreberg/Meslo-Font) Customized version of Apple's Menlo font
 * [Monoid](https://github.com/larsenwork/monoid)
 * [Source Code Pro](http://adobe-fonts.github.io/source-code-pro/)
-* Programming fonts with ligatures:
-  * [FiraCode](https://github.com/tonsky/FiraCode) Monospaced font with programming ligatures
-  * [Hasklig](https://github.com/i-tu/Hasklig)
-  * [PragmataPro](http://www.fsd.it/fonts/pragmatapro.htm) proprietary font with special ligatures for Haskell, Agda, APL etc.
+
+#### Programming fonts with ligatures:
+* [FiraCode](https://github.com/tonsky/FiraCode) Monospaced font with programming ligatures
+* [Hasklig](https://github.com/i-tu/Hasklig)
+* [PragmataPro](http://www.fsd.it/fonts/pragmatapro.htm) proprietary font with special ligatures for Haskell, Agda, APL etc.
 
 ## JavaScript libs
 * [Font.js](http://pomax.nihongoresources.com/pages/Font.js/)
@@ -63,10 +64,11 @@ Curated list of fonts and everything
 * [Lettering.js](https://github.com/davatron5000/Lettering.js)
 * [localFont](https://github.com/jaicab/localFont) save fonts in localStorage
 * [Typeset.js](https://github.com/davidmerfield/typeset) - HTML pre-processor for web typography.
-* Event listener for fonts loading on a web page:
-  * [Font Face Observer](https://github.com/bramstein/fontfaceobserver) 
-  * [Web Font Loader](https://github.com/typekit/webfontloader)
-  
+
+#### Event listener for fonts loading on a web page:
+* [Font Face Observer](https://github.com/bramstein/fontfaceobserver)
+* [Web Font Loader](https://github.com/typekit/webfontloader)
+
 ## Other
 * [Command line font-manager](https://github.com/penman/font)
 * [Font Squirrel Webfont Generator](http://www.fontsquirrel.com/tools/webfont-generator) Upload OTF or TTF fonts, receive webfonts
