@@ -43,6 +43,7 @@ Curated list of fonts and everything
 * [Appa Sariicon](https://github.com/sariina/appa-sariicon) 147 8-bit retro style webfont icons form web and mobile
 
 ## Programming fonts
+* [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro)
 * [Codeface](https://github.com/chrissimpkins/codeface) gallery of monospaced fonts for developers
 * [Hack](https://github.com/chrissimpkins/Hack)
 * [Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
