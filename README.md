@@ -4,7 +4,7 @@ Curated list of fonts and everything
 ## General
 * [27 fonts (give or take) that explain your world](http://www.vox.com/2015/2/8/7475667/27-fonts-give-or-take-that-explain-your-world)
 * [Fonts In Use](http://fontsinuse.com/) is a public archive of typography
-* [Typewolf](http://www.typewolf.com/)
+* [Typewolf](https://www.typewolf.com/)
 
 ## Free fonts
 * [Font Squirrel](http://www.fontsquirrel.com/) A curated collection of free fonts from a variety of foundries
@@ -26,12 +26,12 @@ Curated list of fonts and everything
 * [FontAwesomeKit](https://github.com/PrideChung/FontAwesomeKit) Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons.
 * [fontello](http://fontello.com) Iconic fonts scissors
   * [brandico.font](http://fontello.github.io/brandico.font/demo.html) Font with logos of social services & messagers
-  * [fontelico.font](http://fontello.github.com/fontelico.font/demo.html) Opensource iconic font from Fontello project
-  * [typicons.font](http://fontello.github.com/typicons.font/demo.html) transformed Typicons
+  * [fontelico.font](http://fontello.github.io/fontelico.font/demo.html) Opensource iconic font from Fontello project
+  * [typicons.font](http://fontello.github.io/typicons.font/demo.html) transformed Typicons
 * [IcoMoon-Free](https://icomoon.io) A package of flat vector icons together with an installable ligature font
-* [icono](http://git.io/icono) One tag One icon, no font or svg, Pure CSS
+* [icono](https://git.io/icono) One tag One icon, no font or svg, Pure CSS
 * [ionicons](http://ionicons.com/) The premium icon font for Ionic
-* [mfglabs-iconset](http://mfglabs.github.com/mfglabs-iconset/) Awesome web font icon by MFG Labs
+* [mfglabs-iconset](http://mfglabs.github.io/mfglabs-iconset/) Awesome web font icon by MFG Labs
 * [octicons](https://octicons.github.com/) GitHub's icon font
 * [openwebicons](http://pfefferle.github.io/openwebicons/) Because Font Awesome had no RSS-icon and a font with only one icon would be a bit boring
 * [PaymentFont](http://paymentfont.io) A sleek webfont containing 94 icons of all main payment operators and methods
@@ -56,7 +56,7 @@ Curated list of fonts and everything
 #### Programming fonts with ligatures:
 * [FiraCode](https://github.com/tonsky/FiraCode) Monospaced font with programming ligatures
 * [Hasklig](https://github.com/i-tu/Hasklig)
-* [PragmataPro](http://www.fsd.it/fonts/pragmatapro.htm) proprietary font with special ligatures for Haskell, Agda, APL etc.
+* [PragmataPro](http://www.fsd.it/shop/fonts/pragmatapro) proprietary font with special ligatures for Haskell, Agda, APL etc.
 
 ## JavaScript libs
 * [Font.js](http://pomax.nihongoresources.com/pages/Font.js/)
@@ -78,7 +78,7 @@ Curated list of fonts and everything
 
 ## License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 ## Contribution
 
