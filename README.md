@@ -29,7 +29,7 @@ Curated list of fonts and everything
   * [fontelico.font](http://fontello.github.io/fontelico.font/demo.html) Opensource iconic font from Fontello project
   * [typicons.font](http://fontello.github.io/typicons.font/demo.html) transformed Typicons
 * [IcoMoon-Free](https://icomoon.io) A package of flat vector icons together with an installable ligature font
-* [icono](https://git.io/icono) One tag One icon, no font or svg, Pure CSS
+* [icono](http://saeedalipoor.github.io/icono/) One tag One icon, no font or svg, Pure CSS
 * [ionicons](http://ionicons.com/) The premium icon font for Ionic
 * [mfglabs-iconset](http://mfglabs.github.io/mfglabs-iconset/) Awesome web font icon by MFG Labs
 * [octicons](https://octicons.github.com/) GitHub's icon font
