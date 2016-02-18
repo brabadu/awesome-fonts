@@ -45,6 +45,7 @@ Curated list of fonts and everything
 ## Programming fonts
 * [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro)
 * [Codeface](https://github.com/chrissimpkins/codeface) gallery of monospaced fonts for developers
+* [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans)
 * [Hack](https://github.com/chrissimpkins/Hack)
 * [Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
 * [Input](http://input.fontbureau.com) Flexible system of fonts designed specifically for code
