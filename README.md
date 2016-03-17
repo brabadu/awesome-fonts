@@ -10,7 +10,7 @@ Curated list of fonts and everything
 
 #### Collections
 * [Font Squirrel](http://www.fontsquirrel.com/) A curated collection of free fonts from a variety of foundries
-* [Gidole](http://gidole.github.io/) sOpen Source Modern DIN
+* [Gidole](http://gidole.github.io/) Open Source Modern DIN
 * [Google Fonts](https://www.google.com/fonts)
   * [Files of Google Fonts](https://github.com/google/fonts) ([sources](https://github.com/googlefonts))
   * [Downloader for Google Fonts](https://github.com/qrpike/Web-Font-Load)
