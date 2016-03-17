@@ -29,6 +29,7 @@ Curated list of fonts and everything
 * [SansBullshitSans](https://github.com/RoelN/SansBullshitSans)
 
 ## Iconic fonts
+* [Appa Sariicon](https://github.com/sariina/appa-sariicon) 147 8-bit retro style webfont icons form web and mobile
 * [Evil Icons](http://evil-icons.io/) Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN.
 * [Font Custom](https://github.com/FontCustom/fontcustom) icon fonts generator
 * [Font-Awesome](http://fontawesome.io) The iconic font and CSS toolkit
@@ -39,9 +40,13 @@ Curated list of fonts and everything
   * [fontelico.font](http://fontello.github.io/fontelico.font/demo.html) Opensource iconic font from Fontello project
   * [typicons.font](http://fontello.github.io/typicons.font/demo.html) transformed Typicons
 * [IcoMoon-Free](https://icomoon.io) A package of flat vector icons together with an installable ligature font
+* [Iconic](https://github.com/somerandomdude/Iconic) icon set in raster, vector and font formats
 * [icono](http://saeedalipoor.github.io/icono/) One tag One icon, no font or svg, Pure CSS
 * [ionicons](http://ionicons.com/) The premium icon font for Ionic
+* [Map Icons](https://github.com/scottdejonge/map-icons) font for use with Google Maps API and Google Places API using SVG markers and icon labels
+* [Material design icons](https://github.com/google/material-design-icons) official icon set from Google
 * [mfglabs-iconset](http://mfglabs.github.io/mfglabs-iconset/) Awesome web font icon by MFG Labs
+* [Micon](https://github.com/xtoolkit/Micon) Iconic Windows 10 font and CSS toolkit
 * [octicons](https://octicons.github.com/) GitHub's icon font
 * [openwebicons](http://pfefferle.github.io/openwebicons/) Because Font Awesome had no RSS-icon and a font with only one icon would be a bit boring
 * [PaymentFont](http://paymentfont.io) A sleek webfont containing 94 icons of all main payment operators and methods
@@ -49,8 +54,9 @@ Curated list of fonts and everything
 * [stackicons](https://github.com/parkerbennett/stackicons) Icon font and Sass-based construction kit for Stackicons-Social, which supports multiple button shapes and a unique "multi-color" option in CSS for over 60 social brands
 * [typicons.font](http://typicons.com) 336 pixel perfect, all-purpose vector icons in a web-font kit
 * [weather-icons](http://erikflowers.github.io/weather-icons/) 189 weather themed icons inspired by Font Awesome and ready for Bootstrap
-* [zocial](https://github.com/adamstac/zocial) Sass and Compass CSS3 social buttons framework
-* [Appa Sariicon](https://github.com/sariina/appa-sariicon) 147 8-bit retro style webfont icons form web and mobile
+* [WebHostingHub Glyphs](https://github.com/whhglyphs/webhostinghub-glyphs)
+* [Zocial](https://github.com/adamstac/zocial) Sass and Compass CSS3 social buttons framework
+  * [CSS social buttons](https://github.com/smcllns/css-social-buttons) Entirely vector-based social buttons
 
 ## Programming fonts
 * [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro)
