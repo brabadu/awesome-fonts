@@ -67,6 +67,7 @@ Curated list of fonts and everything
 * [Input](http://input.fontbureau.com) Flexible system of fonts designed specifically for code
 * [Meslo-Font](https://github.com/andreberg/Meslo-Font) Customized version of Apple's Menlo font
 * [Monoid](https://github.com/larsenwork/monoid)
+* [Mononoki](http://madmalik.github.io/mononoki/)
 * [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
 * [Adobe Fonts](https://github.com/adobe-fonts)
   * [Source Code Pro](http://adobe-fonts.github.io/source-code-pro/)
