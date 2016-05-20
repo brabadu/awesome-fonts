@@ -9,7 +9,7 @@ Curated list of fonts and everything
 ## Free fonts
 
 #### Collections
-* [Font Squirrel](http://www.fontsquirrel.com/) A curated collection of free fonts from a variety of foundries
+* [Font Squirrel](https://www.fontsquirrel.com/) A curated collection of free fonts from a variety of foundries
 * [Gidole](http://gidole.github.io/) Open Source Modern DIN
 * [Google Fonts](https://www.google.com/fonts)
   * [Files of Google Fonts](https://github.com/google/fonts) ([sources](https://github.com/googlefonts))
@@ -92,7 +92,7 @@ Curated list of fonts and everything
 
 ## Other
 * [Command line font-manager](https://github.com/penman/font)
-* [Font Squirrel Webfont Generator](http://www.fontsquirrel.com/tools/webfont-generator) Upload OTF or TTF fonts, receive webfonts
+* [Font Squirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) Upload OTF or TTF fonts, receive webfonts
 * [font](https://github.com/Benvie/font) extracts metadata from otf/ttf font files
 * [FontForge](https://github.com/fontforge/fontforge) cross-platform font editor
 * [Powerline Fonts](https://github.com/powerline/fonts) - patched fonts for Powerline users
