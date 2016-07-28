@@ -52,7 +52,7 @@ Curated list of fonts and everything
 * [PaymentFont](http://paymentfont.io) A sleek webfont containing 94 icons of all main payment operators and methods
 * [PE-Analog-Clock-icon-font](https://github.com/jhogue/PE-Analog-Clock-icon-font) A set of icons for displaying a visual ("analog") representation of time stamps
 * [stackicons](https://github.com/parkerbennett/stackicons) Icon font and Sass-based construction kit for Stackicons-Social, which supports multiple button shapes and a unique "multi-color" option in CSS for over 60 social brands
-* [svg-icon](leungwensen.github.io/svg-icon/) An ultimate SVG icons collection DONE RIGHT, with over 4,000 SVG icons out of the box (which mostly were transformed from regular icon fonts collections).
+* [svg-icon](leungwensen.github.io/svg-icon/) An ultimate SVG icons collection done right
 * [typicons.font](http://typicons.com) 336 pixel perfect, all-purpose vector icons in a web-font kit
 * [weather-icons](http://erikflowers.github.io/weather-icons/) 189 weather themed icons inspired by Font Awesome and ready for Bootstrap
 * [WebHostingHub Glyphs](https://github.com/whhglyphs/webhostinghub-glyphs)
