@@ -78,6 +78,7 @@ Curated list of fonts and everything
 #### Programming fonts with ligatures:
 * [FiraCode](https://github.com/tonsky/FiraCode) Monospaced font with programming ligatures
 * [Hasklig](https://github.com/i-tu/Hasklig)
+* [Monoid](https://github.com/larsenwork/monoid)
 * [PragmataPro](http://www.fsd.it/shop/fonts/pragmatapro) proprietary font with special ligatures for Haskell, Agda, APL etc.
 
 ## JavaScript libs
