@@ -86,7 +86,9 @@ Curated list of fonts and everything
 * [fontmin](https://github.com/ecomfe/fontmin) font minifier
 * [Lettering.js](https://github.com/davatron5000/Lettering.js)
 * [localFont](https://github.com/jaicab/localFont) save fonts in localStorage
-* [Typeset.js](https://github.com/davidmerfield/typeset) - HTML pre-processor for web typography.
+* [opentype.js](https://github.com/nodebox/opentype.js) parser and writer for TrueType and OpenType fonts
+* [Typeset.js](https://github.com/davidmerfield/typeset) - HTML pre-processor for web typography
+* [Typr.js](https://github.com/photopea/Typr.js) parser and utility for working with fonts (TTF, OTF)
 
 #### Event listener for fonts loading on a web page:
 * [Font Face Observer](https://github.com/bramstein/fontfaceobserver)
