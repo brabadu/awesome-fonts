@@ -67,7 +67,6 @@ Curated list of fonts and everything
 * [Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
 * [Input](http://input.fontbureau.com) Flexible system of fonts designed specifically for code
 * [Meslo-Font](https://github.com/andreberg/Meslo-Font) Customized version of Apple's Menlo font
-* [Monoid](https://github.com/larsenwork/monoid)
 * [Mononoki](http://madmalik.github.io/mononoki/)
 * [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
 * [Adobe Fonts](https://github.com/adobe-fonts)
@@ -78,6 +77,7 @@ Curated list of fonts and everything
 #### Programming fonts with ligatures:
 * [FiraCode](https://github.com/tonsky/FiraCode) Monospaced font with programming ligatures
 * [Hasklig](https://github.com/i-tu/Hasklig)
+* [Monoid](https://github.com/larsenwork/monoid)
 * [PragmataPro](http://www.fsd.it/shop/fonts/pragmatapro) proprietary font with special ligatures for Haskell, Agda, APL etc.
 
 ## JavaScript libs
