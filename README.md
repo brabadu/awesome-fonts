@@ -94,6 +94,11 @@ Curated list of fonts and everything
 * [Font Face Observer](https://github.com/bramstein/fontfaceobserver)
 * [Web Font Loader](https://github.com/typekit/webfontloader)
 
+## GitHub Showcases
+* [Fonts](https://github.com/showcases/fonts)
+* [Icon Fonts](https://github.com/showcases/icon-fonts)
+* [Design Essentials](https://github.com/showcases/design-essentials)
+
 ## Other
 * [Command line font-manager](https://github.com/penman/font)
 * [Font Squirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) Upload OTF or TTF fonts, receive webfonts
