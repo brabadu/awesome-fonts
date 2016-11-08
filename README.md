@@ -11,7 +11,7 @@ Curated list of fonts and everything
 #### Collections
 * [Font Squirrel](https://www.fontsquirrel.com/) A curated collection of free fonts from a variety of foundries
 * [Gidole](http://gidole.github.io/) Open Source Modern DIN
-* [Google Fonts](https://www.google.com/fonts)
+* [Google Fonts](https://fonts.google.com/)
   * [Files of Google Fonts](https://github.com/google/fonts) ([sources](https://github.com/googlefonts))
   * [Downloader for Google Fonts](https://github.com/qrpike/Web-Font-Load)
   * [Roboto](https://github.com/google/roboto) default font on Android/ ChromeOS, and the recommended for Material Design
@@ -101,7 +101,7 @@ Curated list of fonts and everything
 * [Design Essentials](https://github.com/showcases/design-essentials)
 
 ## Other
-* [Command line font-manager](https://github.com/penman/font)
+* [Command line font-manager](https://github.com/alyssais/font)
 * [Font Squirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) Upload OTF or TTF fonts, receive webfonts
 * [font](https://github.com/Benvie/font) extracts metadata from otf/ttf font files
 * [FontForge](https://github.com/fontforge/fontforge) cross-platform font editor
