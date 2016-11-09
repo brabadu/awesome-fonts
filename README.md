@@ -30,6 +30,7 @@ Curated list of fonts and everything
 
 ## Iconic fonts
 * [Appa Sariicon](https://github.com/sariina/appa-sariicon) 147 8-bit retro style webfont icons form web and mobile
+* [Country Icons](https://github.com/lipis/flag-icon-css) A collection of all country flags in SVG and CSS
 * [Evil Icons](http://evil-icons.io/) Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN.
 * [Font Custom](https://github.com/FontCustom/fontcustom) icon fonts generator
 * [Font-Awesome](http://fontawesome.io) The iconic font and CSS toolkit
@@ -58,7 +59,6 @@ Curated list of fonts and everything
 * [WebHostingHub Glyphs](https://github.com/whhglyphs/webhostinghub-glyphs)
 * [Zocial](https://github.com/adamstac/zocial) Sass and Compass CSS3 social buttons framework
   * [CSS social buttons](https://github.com/smcllns/css-social-buttons) Entirely vector-based social buttons
-* [Country Icons](https://github.com/lipis/flag-icon-css) A collection of all country flags in SVG — plus the CSS for easier integration
 
 ## Programming fonts
 * [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro)
