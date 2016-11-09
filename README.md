@@ -58,6 +58,7 @@ Curated list of fonts and everything
 * [WebHostingHub Glyphs](https://github.com/whhglyphs/webhostinghub-glyphs)
 * [Zocial](https://github.com/adamstac/zocial) Sass and Compass CSS3 social buttons framework
   * [CSS social buttons](https://github.com/smcllns/css-social-buttons) Entirely vector-based social buttons
+* [Country Icons](https://github.com/lipis/flag-icon-css) A collection of all country flags in SVG — plus the CSS for easier integration
 
 ## Programming fonts
 * [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro)
