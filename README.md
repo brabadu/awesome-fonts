@@ -81,6 +81,7 @@ Curated list of fonts and everything
 * [Monoid](https://github.com/larsenwork/monoid)
 * [PragmataPro](http://www.fsd.it/shop/fonts/pragmatapro) proprietary font with special ligatures for Haskell, Agda, APL etc.
 * [Fixedsys Excelsior](https://github.com/kika/fixedsys)
+* [Iosevka](https://github.com/be5invis/Iosevka) Spatial efficient monospace font family for programming. Built from code
 
 ## JavaScript libs
 * [Font.js](http://pomax.nihongoresources.com/pages/Font.js/)
