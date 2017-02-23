@@ -3,7 +3,7 @@ Curated list of fonts and everything
 
 ## General
 * [27 fonts (give or take) that explain your world](http://www.vox.com/2015/2/8/7475667/27-fonts-give-or-take-that-explain-your-world)
-* [Fonts In Use](http://fontsinuse.com/) is a public archive of typography
+* [Fonts In Use](https://fontsinuse.com/) is a public archive of typography
 * [Typewolf](https://www.typewolf.com/)
 
 ## Free fonts
@@ -42,7 +42,7 @@ Curated list of fonts and everything
   * [typicons.font](http://fontello.github.io/typicons.font/demo.html) transformed Typicons
 * [IcoMoon-Free](https://icomoon.io) A package of flat vector icons together with an installable ligature font
 * [Iconic](https://github.com/somerandomdude/Iconic) icon set in raster, vector and font formats
-* [icono](http://saeedalipoor.github.io/icono/) One tag One icon, no font or svg, Pure CSS
+* [icono](https://saeedalipoor.github.io/icono/) One tag One icon, no font or svg, Pure CSS
 * [ionicons](http://ionicons.com/) The premium icon font for Ionic
 * [Map Icons](https://github.com/scottdejonge/map-icons) font for use with Google Maps API and Google Places API using SVG markers and icon labels
 * [Material design icons](https://github.com/google/material-design-icons) official icon set from Google
@@ -80,7 +80,7 @@ Curated list of fonts and everything
 * [FiraCode](https://github.com/tonsky/FiraCode) Monospaced font with programming ligatures
 * [Hasklig](https://github.com/i-tu/Hasklig)
 * [Monoid](https://github.com/larsenwork/monoid)
-* [PragmataPro](http://www.fsd.it/shop/fonts/pragmatapro) proprietary font with special ligatures for Haskell, Agda, APL etc.
+* [PragmataPro](https://www.fsd.it/shop/fonts/pragmatapro/) proprietary font with special ligatures for Haskell, Agda, APL etc.
 * [Fixedsys Excelsior](https://github.com/kika/fixedsys)
 * [Iosevka](https://github.com/be5invis/Iosevka) Spatial efficient monospace font family for programming. Built from code
 
