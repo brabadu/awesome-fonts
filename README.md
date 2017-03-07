@@ -1,5 +1,5 @@
 # Awesome fonts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-Curated list of fonts and everything
+A curated list of fonts and typography resources.
 
 ## Contents
 
@@ -125,4 +125,4 @@ Curated list of fonts and everything
 
 ## Contribution
 
-Feel free to make a pull request.
+Feel free to make a pull request. [Click here to read the guidelines](https://github.com/willianjusten/awesome-svg/blob/master/contributing.md).
