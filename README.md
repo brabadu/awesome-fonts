@@ -73,6 +73,7 @@ A curated list of fonts and typography resources.
 ## Programming fonts
 * [Adobe Fonts](https://github.com/adobe-fonts)
   * [Source Code Pro](http://adobe-fonts.github.io/source-code-pro/)
+  * [Source Han Serif](https://github.com/adobe-fonts/source-han-serif)
   * [Source Sans Pro](https://github.com/adobe-fonts/source-sans-pro)
   * [Source Serif Pro](https://github.com/adobe-fonts/source-serif-pro)
 * [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro)
