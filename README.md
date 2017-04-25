@@ -5,6 +5,7 @@ A curated list of fonts and typography resources.
 
 1. [General](#general)
 1. [Free fonts](#free-fonts)
+1. [Emojis](#emojis)
 1. [Iconic fonts](#iconic-fonts)
 1. [Programming fonts](#programming-fonts)
 1. [JavaScript libs](#javascript-libs)
@@ -37,6 +38,35 @@ A curated list of fonts and typography resources.
 * [Redacted](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
 * [SansBullshitSans](https://github.com/RoelN/SansBullshitSans)
 * [WorkSans](https://github.com/weiweihuanghuang/Work-Sans)
+
+## Emojis
+* [alfred-emoji-workflow](https://github.com/carlosgaldino/alfred-emoji-workflow) - Alfred 2 workflow for searching emoji codes
+* [emoji-cheat-sheet.com](https://github.com/WebpageFX/emoji-cheat-sheet.com) - A one pager for emojis on Campfire and GitHub
+* [emoji-data-js](https://github.com/mroth/emoji-data-js) - Emoji encoding swiss army knife for NodeJS
+* [emoji-minesweeper](https://github.com/muan/emoji-minesweeper) - Minesweeper game made with emojis
+* [emoji-regex](https://github.com/mathiasbynens/emoji-regex) - A regular expression to match all Emoji-only symbols as per the Unicode Standard
+* [emoji-rspec](https://github.com/cupakromer/emoji-rspec) - Custom Emoji Formatters for RSpec
+* [emoji-translate](https://github.com/notwaldorf/emoji-translate) - Translate text to emoji
+* [emoji](https://github.com/leereilly/emoji) - All of the emoji supported on GitHub pull requests, issues, comments, commit messages, markdown files, etc
+* [emoji](https://github.com/muan/emoji) - Find the emoji that echoes your mind
+* [emoji](https://github.com/wpeterson/emoji) - A gem. For Emoji. For everyone.
+* [emojidex](https://github.com/emojidex/emojidex) - Emoji-as-a-service provider and set of tools and assets
+* [emojify.js](https://github.com/Ranks/emojify.js) - A Javascript module to convert Emoji keywords to images
+* [emojify](https://github.com/mrowa44/emojify) - Emoji on the command line
+* [emojilib](https://github.com/muan/emojilib) - Emoji keyword library
+* [emojillate](https://github.com/notwaldorf/emojillate) - Pixellate an image into emoji
+* [emojione](https://github.com/Ranks/emojione) - EmojiOne™ is the open emoji standard
+* [emojistatic](https://github.com/mroth/emojistatic) - CDN static asset generation for emoji
+* [emojitracker](https://github.com/mroth/emojitracker) - Track ALL the emoji
+* [emojize](https://github.com/ded/emojize) - High resolution, unicode (emoji) to html conversion utility.
+* [gemoji](https://github.com/github/gemoji) - Emoji images and names
+* [gh-emoji](https://github.com/zzarcon/gh-emoji) - Github emoji parsing done right
+* [megamoji](https://github.com/muan/megamoji) - Making megamojis like a pro
+* [mojibar](https://github.com/muan/mojibar) - Emoji searcher but as a menubar app
+* [mojime](https://github.com/JuanitoFatas/mojime) - Outputs random emojis
+* [php-emoji](https://github.com/iamcal/php-emoji) - A PHP Emoji conversion library
+* [twemoji](https://github.com/twitter/twemoji) - Twitter Emoji for Everyone
+* [vim-emoji](https://github.com/junegunn/vim-emoji) - Emoji in Vim
 
 ## Iconic fonts
 * [Appa Sariicon](https://github.com/sariina/appa-sariicon) - 147 8-bit retro style webfont icons form web and mobile
