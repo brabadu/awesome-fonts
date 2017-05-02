@@ -13,7 +13,7 @@ A curated list of fonts and typography resources.
 1. [Other](#other)
 
 ## General
-* [27 fonts (give or take) that explain your world](http://www.vox.com/2015/2/8/7475667/27-fonts-give-or-take-that-explain-your-world)
+* [27 fonts (give or take) that explain your world](https://www.vox.com/2015/2/8/7475667/27-fonts-give-or-take-that-explain-your-world)
 * [Fonts In Use](https://fontsinuse.com/) - A public archive of typography
 * [Typewolf](https://www.typewolf.com/)
 
