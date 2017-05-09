@@ -127,6 +127,7 @@ A curated list of fonts and typography resources.
 
 ## JavaScript libs
 * [Font.js](http://pomax.nihongoresources.com/pages/Font.js/)
+* [fontkit](https://github.com/devongovett/fontkit) - An advanced font engine for Node and the browser ([demo](https://fontkit-demo.now.sh/))
 * [fontmin](https://github.com/ecomfe/fontmin) - Font minifier
 * [Lettering.js](https://github.com/davatron5000/Lettering.js)
 * [localFont](https://github.com/jaicab/localFont) - Save fonts in localStorage
