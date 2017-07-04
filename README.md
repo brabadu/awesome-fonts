@@ -33,6 +33,7 @@ A curated list of fonts and typography resources.
   * [Junction](https://www.theleagueofmoveabletype.com/junction)
   * [League Gothic](https://www.theleagueofmoveabletype.com/league-gothic)
   * ... And more
+* [Indestructible Type*](https://github.com/indestructible-type) - An open-source font foundry
 
 #### Fonts
 * [Open Baskerville](http://klepas.org/openbaskerville/)
