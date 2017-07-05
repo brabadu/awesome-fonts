@@ -54,11 +54,11 @@ A curated list of fonts and typography resources.
 * [emoji](https://github.com/muan/emoji) - Find the emoji that echoes your mind
 * [emoji](https://github.com/wpeterson/emoji) - A gem. For Emoji. For everyone.
 * [emojidex](https://github.com/emojidex/emojidex) - Emoji-as-a-service provider and set of tools and assets
-* [emojify.js](https://github.com/Ranks/emojify.js) - A Javascript module to convert Emoji keywords to images
+* [emojify.js](https://github.com/emojione/emojify.js) - A Javascript module to convert Emoji keywords to images
 * [emojify](https://github.com/mrowa44/emojify) - Emoji on the command line
 * [emojilib](https://github.com/muan/emojilib) - Emoji keyword library
 * [emojillate](https://github.com/notwaldorf/emojillate) - Pixellate an image into emoji
-* [emojione](https://github.com/Ranks/emojione) - EmojiOne™ is the open emoji standard
+* [emojione](https://github.com/emojione/emojione) - EmojiOne™ is the open emoji standard
 * [emojistatic](https://github.com/mroth/emojistatic) - CDN static asset generation for emoji
 * [emojitracker](https://github.com/mroth/emojitracker) - Track ALL the emoji
 * [emojize](https://github.com/ded/emojize) - High resolution, unicode (emoji) to html conversion utility.
@@ -93,7 +93,7 @@ A curated list of fonts and typography resources.
 * [Micon](https://github.com/xtoolkit/Micon) - Iconic Windows 10 font and CSS toolkit
 * [octicons](https://octicons.github.com/) - GitHub's icon font
 * [openwebicons](http://pfefferle.github.io/openwebicons/) - Because Font Awesome had no RSS-icon and a font with only one icon would be a bit boring
-* [PaymentFont](http://paymentfont.io) - A sleek webfont containing 94 icons of all main payment operators and methods
+* [PaymentFont](https://paymentfont.com/) - A sleek webfont containing 94 icons of all main payment operators and methods
 * [PE-Analog-Clock-icon-font](https://github.com/jhogue/PE-Analog-Clock-icon-font) - A set of icons for displaying a visual ("analog") representation of time stamps
 * [stackicons](https://github.com/parkerbennett/stackicons) - Icon font and Sass-based construction kit for Stackicons-Social, which supports multiple button shapes and a unique "multi-color" option in CSS for over 60 social brands
 * [svg-icon](https://leungwensen.github.io/svg-icon/) - An ultimate SVG icons collection done right
@@ -109,7 +109,7 @@ A curated list of fonts and typography resources.
   * [Source Han Serif](https://github.com/adobe-fonts/source-han-serif)
   * [Source Sans Pro](https://github.com/adobe-fonts/source-sans-pro)
   * [Source Serif Pro](https://github.com/adobe-fonts/source-serif-pro)
-* [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro)
+* [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
 * [Codeface](https://github.com/chrissimpkins/codeface) - Gallery of monospaced fonts for developers
 * [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans)
 * [Go Fonts](https://blog.golang.org/go-fonts) - Open source fonts from Golang Project
