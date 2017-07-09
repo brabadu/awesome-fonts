@@ -64,6 +64,7 @@ A curated list of fonts and typography resources.
 * [emojize](https://github.com/ded/emojize) - High resolution, unicode (emoji) to html conversion utility.
 * [gemoji](https://github.com/github/gemoji) - Emoji images and names
 * [gh-emoji](https://github.com/zzarcon/gh-emoji) - Github emoji parsing done right
+* [node-emoji](https://github.com/omnidan/node-emoji) - Simple emoji support for Node.js
 * [megamoji](https://github.com/muan/megamoji) - Making megamojis like a pro
 * [mojibar](https://github.com/muan/mojibar) - Emoji searcher but as a menubar app
 * [mojime](https://github.com/JuanitoFatas/mojime) - Outputs random emojis
