@@ -28,7 +28,7 @@ A curated list of fonts and typography resources.
   * [Files of Google Fonts](https://github.com/google/fonts) ([sources](https://github.com/googlefonts))
   * [Noto Fonts](https://github.com/googlei18n/noto-fonts) - Internationalized font for all languages, with rich support for CJK and emoji
   * [Roboto](https://github.com/google/roboto) - Default font on Android & ChromeOS, and the recommended typeface for Material Design
-* [Indestructible Type*](https://github.com/indestructible-type) - An open-source font foundry
+* [Indestructible Type](https://github.com/indestructible-type) - An open-source font foundry
 * [The League of Moveable Type](https://www.theleagueofmoveabletype.com/) - The Open-Source Type Movement
   * [Chunk](https://www.theleagueofmoveabletype.com/chunk)
   * [Junction](https://www.theleagueofmoveabletype.com/junction)
@@ -37,11 +37,13 @@ A curated list of fonts and typography resources.
 * [The Ultimate Oldschool PC Font Pack](http://int10h.org/oldschool-pc-fonts/) - A collection of text mode fonts, system fonts and BIOS fonts from DOS-era PCs
 
 #### Fonts
-* [Interface](https://github.com/rsms/interface)
+* [AtF Spark](http://aftertheflood.co/projects/atf-spark) - Font designed to create sparklines
+* [Inter](https://github.com/rsms/inter) - A typeface specially designed for user interfaces.
 * [Open Baskerville](http://klepas.org/openbaskerville/)
 * [Redacted](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
 * [SansBullshitSans](https://github.com/RoelN/SansBullshitSans)
 * [WorkSans](https://github.com/weiweihuanghuang/Work-Sans)
+
 
 ## Emojis
 * [alfred-emoji-workflow](https://github.com/carlosgaldino/alfred-emoji-workflow) - Alfred 2 workflow for searching emoji codes
