@@ -102,7 +102,7 @@ A curated list of fonts and typography resources.
 * [PE-Analog-Clock-icon-font](https://github.com/jhogue/PE-Analog-Clock-icon-font) - A set of icons for displaying a visual ("analog") representation of time stamps
 * [stackicons](https://github.com/parkerbennett/stackicons) - Icon font and Sass-based construction kit for Stackicons-Social, which supports multiple button shapes and a unique "multi-color" option in CSS for over 60 social brands
 * [svg-icon](https://leungwensen.github.io/svg-icon/) - An ultimate SVG icons collection done right
-* [typicons.font](http://typicons.com) - 336 pixel perfect, all-purpose vector icons in a web-font kit
+* [typicons.font](http://s-ings.com/typicons) - 336 pixel perfect, all-purpose vector icons in a web-font kit
 * [weather-icons](http://erikflowers.github.io/weather-icons/) - 189 weather themed icons inspired by Font Awesome and ready for Bootstrap
 * [WebHostingHub Glyphs](https://github.com/whhglyphs/webhostinghub-glyphs)
 * [Zocial](https://github.com/adamstac/zocial) - Sass and Compass CSS3 social buttons framework
@@ -118,7 +118,7 @@ A curated list of fonts and typography resources.
 * [Codeface](https://github.com/chrissimpkins/codeface) - Gallery of monospaced fonts for developers
 * [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans)
 * [Go Fonts](https://blog.golang.org/go-fonts) - Open source fonts from Golang Project
-* [Hack](https://github.com/chrissimpkins/Hack)
+* [Hack](https://github.com/source-foundry/Hack)
 * [Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
 * [Input](http://input.fontbureau.com) - Flexible system of fonts designed specifically for code
 * [Meslo-Font](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font
@@ -156,7 +156,6 @@ A curated list of fonts and typography resources.
 ## Other
 * [Command line font-manager](https://github.com/alyssais/font)
 * [Font Squirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) - Upload OTF or TTF fonts, receive webfonts
-* [font](https://github.com/Benvie/font) - Extracts metadata from OTF/TTF font files
 * [FontForge](https://github.com/fontforge/fontforge) - Cross-platform font editor
 * [Powerline Fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users
 
