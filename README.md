@@ -34,6 +34,7 @@ A curated list of fonts and typography resources.
   * [Junction](https://www.theleagueofmoveabletype.com/junction)
   * [League Gothic](https://www.theleagueofmoveabletype.com/league-gothic)
   * ... And more
+* [Zilla Slab](https://github.com/mozilla/zilla-slab) - Mozilla font
 * [The Ultimate Oldschool PC Font Pack](http://int10h.org/oldschool-pc-fonts/) - A collection of text mode fonts, system fonts and BIOS fonts from DOS-era PCs
 
 #### Fonts
