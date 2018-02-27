@@ -158,6 +158,7 @@ A curated list of fonts and typography resources.
 * [Font Squirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) - Upload OTF or TTF fonts, receive webfonts
 * [FontForge](https://github.com/fontforge/fontforge) - Cross-platform font editor
 * [Powerline Fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users
+* [TruFont](https://github.com/trufont/trufont) - a streamlined and hackable font editor
 
 ## License
 
