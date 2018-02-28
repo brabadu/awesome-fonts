@@ -21,6 +21,7 @@ A curated list of fonts and typography resources.
 ## Free fonts
 
 #### Collections
+* [Codeface](https://github.com/chrissimpkins/codeface) -  Typefaces for source code beautification
 * [Font Squirrel](https://www.fontsquirrel.com/) - A curated collection of free fonts from a variety of foundries
 * [Gidole](http://gidole.github.io/) - Open source, modern DIN
 * [Google Fonts](https://fonts.google.com/)
