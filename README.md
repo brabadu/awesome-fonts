@@ -150,6 +150,10 @@ A curated list of fonts and typography resources.
 * [Font Face Observer](https://github.com/bramstein/fontfaceobserver)
 * [Web Font Loader](https://github.com/typekit/webfontloader)
 
+## Awesome lists
+* [Awesome Icons](https://github.com/vkarampinis/awesome-icons)
+* [Awesome Typograpgy](https://github.com/Jolg42/awesome-typography)
+
 ## GitHub Showcases
 * [Fonts](https://github.com/showcases/fonts)
 * [Icon Fonts](https://github.com/showcases/icon-fonts)
