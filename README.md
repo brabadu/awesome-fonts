@@ -21,7 +21,6 @@ A curated list of fonts and typography resources.
 ## Free fonts
 
 #### Collections
-* [Codeface](https://github.com/chrissimpkins/codeface) -  Typefaces for source code beautification
 * [Font Squirrel](https://www.fontsquirrel.com/) - A curated collection of free fonts from a variety of foundries
 * [Gidole](http://gidole.github.io/) - Open source, modern DIN
 * [Google Fonts](https://fonts.google.com/)
@@ -40,7 +39,7 @@ A curated list of fonts and typography resources.
 * [The Ultimate Oldschool PC Font Pack](http://int10h.org/oldschool-pc-fonts/) - A collection of text mode fonts, system fonts and BIOS fonts from DOS-era PCs
 
 #### Fonts
-* [AtF Spark](http://aftertheflood.co/projects/atf-spark) - Font designed to create sparklines
+* [AtF Spark](https://aftertheflood.co/projects/atf-spark) - Font designed to create sparklines
 * [Inter](https://github.com/rsms/inter) - A typeface specially designed for user interfaces.
 * [Open Baskerville](http://klepas.org/openbaskerville/)
 * [Redacted](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
@@ -83,7 +82,7 @@ A curated list of fonts and typography resources.
 * [Country Icons](https://github.com/lipis/flag-icon-css) - A collection of all country flags in SVG and CSS
 * [Evil Icons](http://evil-icons.io/) Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN
 * [Font Custom](https://github.com/FontCustom/fontcustom) - Icon font generator
-* [Font-Awesome](http://fontawesome.io) - The iconic font and CSS toolkit
+* [Font-Awesome](http://fontawesome.com) - The iconic font and CSS toolkit
 * [font-mfizz](https://github.com/fizzed/font-mfizz) - Vector Icons for Technology and Software Geeks
 * [FontAwesomeKit](https://github.com/PrideChung/FontAwesomeKit) - Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons.
 * [fontello](http://fontello.com) - Iconic fonts scissors
@@ -104,7 +103,7 @@ A curated list of fonts and typography resources.
 * [PE-Analog-Clock-icon-font](https://github.com/jhogue/PE-Analog-Clock-icon-font) - A set of icons for displaying a visual ("analog") representation of time stamps
 * [stackicons](https://github.com/parkerbennett/stackicons) - Icon font and Sass-based construction kit for Stackicons-Social, which supports multiple button shapes and a unique "multi-color" option in CSS for over 60 social brands
 * [svg-icon](https://leungwensen.github.io/svg-icon/) - An ultimate SVG icons collection done right
-* [typicons.font](http://s-ings.com/typicons) - 336 pixel perfect, all-purpose vector icons in a web-font kit
+* [typicons.font](http://s-ings.com/typicons/) - 336 pixel perfect, all-purpose vector icons in a web-font kit
 * [weather-icons](http://erikflowers.github.io/weather-icons/) - 189 weather themed icons inspired by Font Awesome and ready for Bootstrap
 * [WebHostingHub Glyphs](https://github.com/whhglyphs/webhostinghub-glyphs)
 * [Zocial](https://github.com/adamstac/zocial) - Sass and Compass CSS3 social buttons framework
@@ -143,7 +142,7 @@ A curated list of fonts and typography resources.
 * [Lettering.js](https://github.com/davatron5000/Lettering.js)
 * [localFont](https://github.com/jaicab/localFont) - Save fonts in localStorage
 * [opentype.js](https://github.com/nodebox/opentype.js) - Parser and writer for TrueType and OpenType fonts
-* [Typefont](https://github.com/Sirvasile/Typefont) - Algorithm that tries to recognize the font of a text in a photo
+* [Typefont](https://github.com/vasilepeste/Typefont) - Algorithm that tries to recognize the font of a text in a photo
 * [Typeset.js](https://github.com/davidmerfield/typeset) - HTML pre-processor for web typography
 * [Typr.js](https://github.com/photopea/Typr.js) - Parser and utility for working with fonts (TTF, OTF)
 
@@ -158,7 +157,7 @@ A curated list of fonts and typography resources.
 ## GitHub Showcases
 * [Fonts](https://github.com/showcases/fonts)
 * [Icon Fonts](https://github.com/showcases/icon-fonts)
-* [Design Essentials](https://github.com/showcases/design-essentials)
+* [Design Essentials](https://github.com/collections/design-essentials)
 
 ## Other
 * [Command line font-manager](https://github.com/alyssais/font)
