@@ -39,7 +39,7 @@ A curated list of fonts and typography resources.
 * [The Ultimate Oldschool PC Font Pack](http://int10h.org/oldschool-pc-fonts/) - A collection of text mode fonts, system fonts and BIOS fonts from DOS-era PCs
 
 #### Fonts
-* [AtF Spark](https://aftertheflood.co/projects/atf-spark) - Font designed to create sparklines
+* [AtF Spark](https://aftertheflood.co/projects/sparks/) - Font designed to create sparklines
 * [Inter](https://github.com/rsms/inter) - A typeface specially designed for user interfaces.
 * [Open Baskerville](http://klepas.org/openbaskerville/)
 * [Redacted](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
@@ -82,7 +82,7 @@ A curated list of fonts and typography resources.
 * [Country Icons](https://github.com/lipis/flag-icon-css) - A collection of all country flags in SVG and CSS
 * [Evil Icons](http://evil-icons.io/) Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN
 * [Font Custom](https://github.com/FontCustom/fontcustom) - Icon font generator
-* [Font-Awesome](http://fontawesome.com) - The iconic font and CSS toolkit
+* [Font-Awesome](https://fontawesome.com) - The iconic font and CSS toolkit
 * [font-mfizz](https://github.com/fizzed/font-mfizz) - Vector Icons for Technology and Software Geeks
 * [FontAwesomeKit](https://github.com/PrideChung/FontAwesomeKit) - Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons.
 * [fontello](http://fontello.com) - Iconic fonts scissors
@@ -98,7 +98,7 @@ A curated list of fonts and typography resources.
 * [mfglabs-iconset](http://mfglabs.github.io/mfglabs-iconset/) - Awesome web font icon by MFG Labs
 * [Micon](https://github.com/xtoolkit/Micon) - Iconic Windows 10 font and CSS toolkit
 * [octicons](https://octicons.github.com/) - GitHub's icon font
-* [openwebicons](http://pfefferle.github.io/openwebicons/) - Because Font Awesome had no RSS-icon and a font with only one icon would be a bit boring
+* [openwebicons](https://pfefferle.github.io/openwebicons/) - Because Font Awesome had no RSS-icon and a font with only one icon would be a bit boring
 * [PaymentFont](https://paymentfont.com/) - A sleek webfont containing 94 icons of all main payment operators and methods
 * [PE-Analog-Clock-icon-font](https://github.com/jhogue/PE-Analog-Clock-icon-font) - A set of icons for displaying a visual ("analog") representation of time stamps
 * [stackicons](https://github.com/parkerbennett/stackicons) - Icon font and Sass-based construction kit for Stackicons-Social, which supports multiple button shapes and a unique "multi-color" option in CSS for over 60 social brands
