@@ -39,8 +39,9 @@ A curated list of fonts and typography resources.
 * [The Ultimate Oldschool PC Font Pack](http://int10h.org/oldschool-pc-fonts/) - A collection of text mode fonts, system fonts and BIOS fonts from DOS-era PCs
 
 #### Fonts
+* [Amstelvar](https://github.com/TypeNetwork/Amstelvar) - A parametric variable font
 * [AtF Spark](https://aftertheflood.co/projects/sparks/) - Font designed to create sparklines
-* [Inter](https://github.com/rsms/inter) - A typeface specially designed for user interfaces.
+* [Inter](https://github.com/rsms/inter) - A typeface specially designed for user interfaces
 * [Open Baskerville](http://klepas.org/openbaskerville/)
 * [Redacted](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
 * [SansBullshitSans](https://github.com/RoelN/SansBullshitSans)
