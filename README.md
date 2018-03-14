@@ -41,6 +41,7 @@ A curated list of fonts and typography resources.
 #### Fonts
 * [Amstelvar](https://github.com/TypeNetwork/Amstelvar) - A parametric variable font
 * [AtF Spark](https://aftertheflood.co/projects/sparks/) - Font designed to create sparklines
+* [Barlow](https://github.com/jpt/barlow) - Barlow: a grotesk variable font superfamily
 * [Inter](https://github.com/rsms/inter) - A typeface specially designed for user interfaces
 * [Open Baskerville](http://klepas.org/openbaskerville/)
 * [Redacted](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
