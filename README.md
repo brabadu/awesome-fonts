@@ -144,7 +144,7 @@ A curated list of fonts and typography resources.
 * [Lettering.js](https://github.com/davatron5000/Lettering.js)
 * [localFont](https://github.com/jaicab/localFont) - Save fonts in localStorage
 * [opentype.js](https://github.com/nodebox/opentype.js) - Parser and writer for TrueType and OpenType fonts
-* [Typefont](https://github.com/vasilepeste/Typefont) - Algorithm that tries to recognize the font of a text in a photo
+* [Typefont](https://github.com/Sir-Vasile/Typefont) - Algorithm that tries to recognize the font of a text in a photo
 * [Typeset.js](https://github.com/davidmerfield/typeset) - HTML pre-processor for web typography
 * [Typr.js](https://github.com/photopea/Typr.js) - Parser and utility for working with fonts (TTF, OTF)
 
