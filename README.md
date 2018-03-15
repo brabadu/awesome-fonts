@@ -41,6 +41,7 @@ A curated list of fonts and typography resources.
 #### Fonts
 * [Amstelvar](https://github.com/TypeNetwork/Amstelvar) - A parametric variable font
 * [AtF Spark](https://aftertheflood.co/projects/sparks/) - Font designed to create sparklines
+* [Barlow](https://github.com/jpt/barlow) - A grotesk variable font superfamily
 * [Inter](https://github.com/rsms/inter) - A typeface specially designed for user interfaces
 * [Open Baskerville](http://klepas.org/openbaskerville/)
 * [Redacted](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
@@ -143,7 +144,7 @@ A curated list of fonts and typography resources.
 * [Lettering.js](https://github.com/davatron5000/Lettering.js)
 * [localFont](https://github.com/jaicab/localFont) - Save fonts in localStorage
 * [opentype.js](https://github.com/nodebox/opentype.js) - Parser and writer for TrueType and OpenType fonts
-* [Typefont](https://github.com/vasilepeste/Typefont) - Algorithm that tries to recognize the font of a text in a photo
+* [Typefont](https://github.com/Sir-Vasile/Typefont) - Algorithm that tries to recognize the font of a text in a photo
 * [Typeset.js](https://github.com/davidmerfield/typeset) - HTML pre-processor for web typography
 * [Typr.js](https://github.com/photopea/Typr.js) - Parser and utility for working with fonts (TTF, OTF)
 
