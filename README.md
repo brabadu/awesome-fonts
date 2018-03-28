@@ -155,7 +155,7 @@ A curated list of fonts and typography resources.
 
 ## Awesome lists
 * [Awesome Icons](https://github.com/vkarampinis/awesome-icons)
-* [Awesome Typograpgy](https://github.com/Jolg42/awesome-typography)
+* [Awesome Typography](https://github.com/Jolg42/awesome-typography)
 
 ## GitHub Showcases
 * [Fonts](https://github.com/showcases/fonts)
