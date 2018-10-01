@@ -129,6 +129,8 @@ A curated list of fonts and typography resources.
 * [Meslo-Font](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font
 * [Mononoki](http://madmalik.github.io/mononoki/)
 * [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
+* [Operator Mono](https://www.typography.com/fonts/operator/styles/) — A $200 premium programming typeface inspired by traditions of typewriting.
+
 
 #### Programming fonts with ligatures
 * [FiraCode](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures
