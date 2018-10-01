@@ -129,6 +129,7 @@ A curated list of fonts and typography resources.
 * [Meslo-Font](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font
 * [Mononoki](http://madmalik.github.io/mononoki/)
 * [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
+* [IBM Plex Mono](https://github.com/IBM/plex/tree/master/IBM-Plex-Mono) — IBM Plex a distinctly IBM font has a mono typeface which is a pretty decent programming font.
 
 #### Programming fonts with ligatures
 * [FiraCode](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures
