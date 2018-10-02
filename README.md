@@ -139,6 +139,7 @@ A curated list of fonts and typography resources.
 * [Iosevka](https://github.com/be5invis/Iosevka) - Spatially efficient monospace font family for programming. Built from code.
 * [Monoid](https://github.com/larsenwork/monoid)
 * [PragmataPro](https://www.fsd.it/shop/fonts/pragmatapro/) - Proprietary font with special ligatures for Haskell, Agda, APL, etc
+* [Dank Mono](https://dank.sh/) — A premium programming font with Delightful ligatures and an italic variant.
 
 ## JavaScript libs
 * [Font.js](http://pomax.nihongoresources.com/pages/Font.js/)
