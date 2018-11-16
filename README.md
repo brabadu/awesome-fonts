@@ -45,6 +45,7 @@ A curated list of fonts and typography resources.
 * [Barlow](https://github.com/jpt/barlow) - A grotesk variable font superfamily
 * [Inter](https://github.com/rsms/inter) - A typeface specially designed for user interfaces
 * [Libre Franklin](https://github.com/impallari/Libre-Franklin) - An interpretation and expansion based on Morris Fuller Benton’s 1912 classic.
+* [Manrope](https://github.com/sharanda/manrope) - Modern geometric sans-serif
 * [Open Baskerville](http://klepas.org/openbaskerville/)
 * [Redacted](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
 * [SansBullshitSans](https://github.com/RoelN/SansBullshitSans)
