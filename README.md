@@ -1,4 +1,4 @@
-# Awesome fonts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Subscribe to updates](https://i.listlist.net/badge.svg?m=brabadu%2Fawesome-fonts)](https://listlist.net/user/brabadu/awesome-fonts?subscribe)
+# Awesome fonts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of fonts and typography resources.
 
