@@ -39,6 +39,8 @@ A curated list of fonts and typography resources.
 * [Zilla Slab](https://github.com/mozilla/zilla-slab) - Mozilla font
 * [Plex](https://github.com/IBM/plex) - IBM's open source font
 * [The Ultimate Oldschool PC Font Pack](http://int10h.org/oldschool-pc-fonts/) - A collection of text mode fonts, system fonts and BIOS fonts from DOS-era PCs
+* [USWDS](https://github.com/uswds) - U.S. Web Design System
+  * [Public Sans](https://public-sans.digital.gov/)
 
 #### Fonts
 * [Amstelvar](https://github.com/TypeNetwork/Amstelvar) - A parametric variable font
