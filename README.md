@@ -15,6 +15,7 @@ A curated list of fonts and typography resources.
 
 ## General
 * [27 fonts (give or take) that explain your world](https://www.vox.com/2015/2/8/7475667/27-fonts-give-or-take-that-explain-your-world)
+* [Easy Fonts](https://pagecdn.com/lib/easyfonts) - Makes webfonts easy to use for developers.
 * [Fontjoy](http://fontjoy.com/) - Generate font combinations with deep learning
 * [Fonts In Use](https://fontsinuse.com/) - A public archive of typography
 * [Typewolf](https://www.typewolf.com/)
