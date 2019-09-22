@@ -15,7 +15,6 @@ A curated list of fonts and typography resources.
 
 ## General
 * [27 fonts (give or take) that explain your world](https://www.vox.com/2015/2/8/7475667/27-fonts-give-or-take-that-explain-your-world)
-* [Easy Fonts](https://pagecdn.com/lib/easyfonts) - Makes webfonts easy to use for developers.
 * [Fontjoy](http://fontjoy.com/) - Generate font combinations with deep learning
 * [Fonts In Use](https://fontsinuse.com/) - A public archive of typography
 * [Typewolf](https://www.typewolf.com/)
@@ -75,7 +74,7 @@ A curated list of fonts and typography resources.
 * [emojione](https://github.com/emojione/emojione) - EmojiOne™ is the open emoji standard
 * [emojistatic](https://github.com/mroth/emojistatic) - CDN static asset generation for emoji
 * [emojitracker](https://github.com/mroth/emojitracker) - Track ALL the emoji
-* [emojize](https://github.com/ded/emojize) - High resolution, unicode (emoji) to html conversion utility.
+* [emojize](https://github.com/ded/emojize) - High resolution, unicode (emoji) to html conversion utility
 * [gemoji](https://github.com/github/gemoji) - Emoji images and names
 * [gh-emoji](https://github.com/zzarcon/gh-emoji) - Github emoji parsing done right
 * [node-emoji](https://github.com/omnidan/node-emoji) - Simple emoji support for Node.js
@@ -135,7 +134,7 @@ A curated list of fonts and typography resources.
 * [Meslo-Font](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font
 * [Mononoki](http://madmalik.github.io/mononoki/)
 * [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
-* [Operator Mono](https://www.typography.com/fonts/operator/styles/) — A $200 premium programming typeface inspired by traditions of typewriting.
+* [Operator Mono](https://www.typography.com/fonts/operator/styles/) — A $200 premium programming typeface inspired by traditions of typewriting
 
 
 #### Programming fonts with ligatures
@@ -145,7 +144,7 @@ A curated list of fonts and typography resources.
 * [Iosevka](https://github.com/be5invis/Iosevka) - Spatially efficient monospace font family for programming. Built from code.
 * [Monoid](https://github.com/larsenwork/monoid)
 * [PragmataPro](https://www.fsd.it/shop/fonts/pragmatapro/) - Proprietary font with special ligatures for Haskell, Agda, APL, etc
-* [Dank Mono](https://dank.sh/) — A premium programming font with Delightful ligatures and an italic variant.
+* [Dank Mono](https://dank.sh/) — A premium programming font with Delightful ligatures and an italic variant
 
 ## JavaScript libs
 * [Font.js](http://pomax.nihongoresources.com/pages/Font.js/)
@@ -173,6 +172,7 @@ A curated list of fonts and typography resources.
 
 ## Other
 * [Command line font-manager](https://github.com/alyssais/font)
+* [Easy Fonts](https://pagecdn.com/lib/easyfonts) - Makes webfonts easy to use for developers
 * [Font Squirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) - Upload OTF or TTF fonts, receive webfonts
 * [FontForge](https://github.com/fontforge/fontforge) - Cross-platform font editor
 * [Powerline Fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users
