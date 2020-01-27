@@ -144,6 +144,7 @@ A curated list of fonts and typography resources.
 * [Fixedsys Excelsior](https://github.com/kika/fixedsys)
 * [Hasklig](https://github.com/i-tu/Hasklig)
 * [Iosevka](https://github.com/be5invis/Iosevka) - Spatially efficient monospace font family for programming. Built from code.
+* [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 * [Monoid](https://github.com/larsenwork/monoid)
 * [PragmataPro](https://www.fsd.it/shop/fonts/pragmatapro/) - Proprietary font with special ligatures for Haskell, Agda, APL, etc
 * [Dank Mono](https://dank.sh/) — A premium programming font with Delightful ligatures and an italic variant
