@@ -136,6 +136,7 @@ A curated list of fonts and typography resources.
 * [Mononoki](http://madmalik.github.io/mononoki/)
 * [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
 * [Operator Mono](https://www.typography.com/fonts/operator/styles/) — A $200 premium programming typeface inspired by traditions of typewriting
+* [Recursive Sans & Mono](https://github.com/arrowtype/recursive/) - A variable font family for code & UI
 
 
 #### Programming fonts with ligatures
