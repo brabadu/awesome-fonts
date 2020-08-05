@@ -155,6 +155,7 @@ A curated list of fonts and typography resources.
 * [Font.js](http://pomax.nihongoresources.com/pages/Font.js/)
 * [fontkit](https://github.com/devongovett/fontkit) - An advanced font engine for Node and the browser ([demo](https://fontkit-demo.now.sh/))
 * [fontmin](https://github.com/ecomfe/fontmin) - Font minifier
+* [Fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages
 * [Lettering.js](https://github.com/davatron5000/Lettering.js)
 * [localFont](https://github.com/jaicab/localFont) - Save fonts in localStorage
 * [opentype.js](https://github.com/nodebox/opentype.js) - Parser and writer for TrueType and OpenType fonts
