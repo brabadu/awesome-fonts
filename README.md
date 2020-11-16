@@ -152,6 +152,7 @@ A curated list of fonts and typography resources.
 * [Victor Mono](https://rubjo.github.io/victor-mono/) - A free programming font with semi-connected cursive italics, symbol ligatures and Latin, Cyrillic and Greek characters
 
 ## JavaScript libs
+* [Beatrix](https://github.com/funbox/beatrix) - A tool to chop off useless fonts glyphs and convert TTF/OTF into WOFF & WOFF2
 * [Font.js](http://pomax.nihongoresources.com/pages/Font.js/)
 * [fontkit](https://github.com/devongovett/fontkit) - An advanced font engine for Node and the browser ([demo](https://fontkit-demo.now.sh/))
 * [fontmin](https://github.com/ecomfe/fontmin) - Font minifier
