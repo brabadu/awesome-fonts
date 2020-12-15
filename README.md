@@ -57,6 +57,8 @@ A curated list of fonts and typography resources.
 
 ## Emojis
 * [alfred-emoji-workflow](https://github.com/carlosgaldino/alfred-emoji-workflow) - Alfred 2 workflow for searching emoji codes
+* [Crypto Puzzles](https://github.com/2d4d/crypto_puzzles) - Includes e
+moji font: ᵺ ༐ 💰     ༐ ⑀     🅰️ И     € ❎ ㏂ 𝔭 ᇉ     𝔬 🎏     ᵺ €     モ Ⓜ️ 🍩 🃛 ï     ℉ 𝔬 ♑ 𝔱  (Online demo: http://rupp.de/crypto_puzzles/crypto_puzzles_web.py)
 * [emoji-cheat-sheet.com](https://github.com/WebpageFX/emoji-cheat-sheet.com) - A one pager for emojis on Campfire and GitHub
 * [emoji-data-js](https://github.com/mroth/emoji-data-js) - Emoji encoding swiss army knife for NodeJS
 * [emoji-minesweeper](https://github.com/muan/emoji-minesweeper) - Minesweeper game made with emojis
@@ -88,6 +90,7 @@ A curated list of fonts and typography resources.
 ## Iconic fonts
 * [Appa Sariicon](https://github.com/sariina/appa-sariicon) - 147 8-bit retro style webfont icons form web and mobile
 * [Country Icons](https://github.com/lipis/flag-icon-css) - A collection of all country flags in SVG and CSS
+* [Crypto animal font](https://github.com/ariassd/crypto-animal-font) - This font translates alphabet characters into symbols. The english ordered version uses animals matching the first letter of their name.
 * [Evil Icons](http://evil-icons.io/) Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN
 * [Font Custom](https://github.com/FontCustom/fontcustom) - Icon font generator
 * [Font-Awesome](https://fontawesome.com) - The iconic font and CSS toolkit
