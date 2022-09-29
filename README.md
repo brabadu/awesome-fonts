@@ -54,6 +54,7 @@ A curated list of fonts and typography resources.
 * [Open Baskerville](http://klepas.org/openbaskerville/)
 * [Redacted](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
 * [SansBullshitSans](https://github.com/RoelN/SansBullshitSans)
+* [Urbanist](https://github.com/coreyhu/Urbanist) - Geometric sans-serif variable font
 * [WorkSans](https://github.com/weiweihuanghuang/Work-Sans)
 
 
