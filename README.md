@@ -189,6 +189,7 @@ moji font: ᵺ ༐ 💰     ༐ ⑀     🅰️ И     € ❎ ㏂ 𝔭 ᇉ     
 
 ## Other
 * [Command line font-manager](https://github.com/alyssais/font)
+* [fnt](https://github.com/alexmyczko/fnt) - Apt for fonts, the missing font manager for macOS/linux
 * [Easy Fonts](https://pagecdn.com/lib/easyfonts) - Makes webfonts easy to use for developers
 * [Font Squirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) - Upload OTF or TTF fonts, receive webfonts
 * [FontForge](https://github.com/fontforge/fontforge) - Cross-platform font editor
