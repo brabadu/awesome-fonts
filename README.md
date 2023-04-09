@@ -132,6 +132,7 @@ moji font: ᵺ ༐ 💰     ༐ ⑀     🅰️ И     € ❎ ㏂ 𝔭 ᇉ     
   * [Source Han Serif](https://github.com/adobe-fonts/source-han-serif)
   * [Source Sans Pro](https://github.com/adobe-fonts/source-sans-pro)
   * [Source Serif Pro](https://github.com/adobe-fonts/source-serif-pro)
+* [agave](https://github.com/blobject/agave) - Fixed-width outline typeface, designed and produced by type agaric
 * [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
 * [Codeface](https://github.com/chrissimpkins/codeface) - Gallery of monospaced fonts for developers
 * [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans)
@@ -154,6 +155,7 @@ moji font: ᵺ ༐ 💰     ༐ ⑀     🅰️ И     € ❎ ㏂ 𝔭 ᇉ     
 * [Hasklig](https://github.com/i-tu/Hasklig)
 * [Iosevka](https://github.com/be5invis/Iosevka) - Spatially efficient monospace font family for programming. Built from code.
 * [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+* [Lilex](https://github.com/mishamyrt/Lilex) - Modern programming font containing a set of ligatures for common programming multi-character combinations
 * [Monoid](https://github.com/larsenwork/monoid)
 * [PragmataPro](https://www.fsd.it/shop/fonts/pragmatapro/) - Proprietary font with special ligatures for Haskell, Agda, APL, etc
 * [Dank Mono](https://dank.sh/) — A premium programming font with Delightful ligatures and an italic variant
