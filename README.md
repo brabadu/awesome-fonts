@@ -125,6 +125,7 @@ moji font: ᵺ ༐ 💰     ༐ ⑀     🅰️ И     € ❎ ㏂ 𝔭 ᇉ     
 * [WebHostingHub Glyphs](https://github.com/whhglyphs/webhostinghub-glyphs)
 * [Zocial](https://github.com/adamstac/zocial) - Sass and Compass CSS3 social buttons framework
   * [CSS social buttons](https://github.com/smcllns/css-social-buttons) - Entirely vector-based social buttons
+* [IconicFonts](https://github.com/iconicFonts/if) - Over **55,000** icons from **43** different sets, available as a single font or separate fonts per set.
 
 ## Programming fonts
 * [Adobe Fonts](https://github.com/adobe-fonts)
