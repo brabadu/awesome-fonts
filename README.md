@@ -146,7 +146,7 @@ moji font: ᵺ ༐ 💰     ༐ ⑀     🅰️ И     € ❎ ㏂ 𝔭 ᇉ     
 * [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
 * [Operator Mono](https://www.typography.com/fonts/operator/styles/) — A $200 premium programming typeface inspired by traditions of typewriting
 * [Recursive Sans & Mono](https://github.com/arrowtype/recursive/) - A variable font family for code & UI
-
+* [Iconic Fonts](https://github.com/iconicFonts/if) - Patched fonts with over 60k icons for terminal, window manager, and more!
 
 #### Programming fonts with ligatures
 * [Cascadia Code](https://github.com/microsoft/cascadia-code) - Monospaced font by Miscrosoft designed to enhance the modern look and feel of the Windows Terminal
