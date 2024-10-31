@@ -52,6 +52,8 @@ A curated list of fonts and typography resources.
 * [Inter](https://github.com/rsms/inter) - A typeface specially designed for user interfaces
 * [Libre Franklin](https://github.com/impallari/Libre-Franklin) - An interpretation and expansion based on Morris Fuller Benton’s 1912 classic.
 * [Manrope](https://github.com/sharanda/manrope) - Modern geometric sans-serif
+* [Martian Mono](https://github.com/evilmartians/mono) - Free and open-source monospaced font from Evil Martians
+* [Monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 * [Open Baskerville](http://klepas.org/openbaskerville/)
 * [Redacted](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
 * [SansBullshitSans](https://github.com/RoelN/SansBullshitSans)
