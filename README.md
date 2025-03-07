@@ -156,6 +156,7 @@ moji font: ᵺ ༐ 💰     ༐ ⑀     🅰️ И     € ❎ ㏂ 𝔭 ᇉ     
 * [Fixedsys Excelsior](https://github.com/kika/fixedsys)
 * [Hasklig](https://github.com/i-tu/Hasklig)
 * [Iosevka](https://github.com/be5invis/Iosevka) - Spatially efficient monospace font family for programming. Built from code.
+* [JetBrains Maple Mono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) - The free and open-source font fused with JetBrains Mono & Maple Mono
 * [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 * [Lilex](https://github.com/mishamyrt/Lilex) - Modern programming font containing a set of ligatures for common programming multi-character combinations
 * [Monoid](https://github.com/larsenwork/monoid)
