@@ -22,7 +22,6 @@ A curated list of fonts and typography resources.
 ## Free fonts
 
 #### Collections
-* [Crella](https://crella.net/free-fonts/) - Fonts offered for free for commercial use.
 * [Fontshare](https://www.fontshare.com/) - A free fonts service launched by the Indian Type Foundry (ITF)
 * [Font Squirrel](https://www.fontsquirrel.com/) - A curated collection of free fonts from a variety of foundries
 * [Gidole](http://gidole.github.io/) - Open source, modern DIN
