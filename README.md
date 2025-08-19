@@ -135,6 +135,7 @@ moji font: ᵺ ༐ 💰     ༐ ⑀     🅰️ И     € ❎ ㏂ 𝔭 ᇉ     
   * [Source Serif Pro](https://github.com/adobe-fonts/source-serif-pro)
 * [agave](https://github.com/blobject/agave) - Fixed-width outline typeface, designed and produced by type agaric
 * [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
+* [Berkeley Mono](https://usgraphics.com/products/berkeley-mono) - a love letter to the golden era of computing
 * [Codeface](https://github.com/chrissimpkins/codeface) - Gallery of monospaced fonts for developers
 * [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans)
 * [Go Fonts](https://blog.golang.org/go-fonts) - Open source fonts from Golang Project
