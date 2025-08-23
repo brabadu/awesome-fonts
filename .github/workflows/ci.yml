@@ -1,0 +1,27 @@
+name: CI
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  link-checker:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '2.2'
+        bundler-cache: false
+        
+    - name: Install awesome_bot
+      run: gem install awesome_bot
+      
+    - name: Check links in README.md
+      run: awesome_bot --allow-redirect README.md
