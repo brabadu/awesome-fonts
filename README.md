@@ -16,12 +16,14 @@ A curated list of fonts and typography resources.
 ## General
 * [27 fonts (give or take) that explain your world](https://www.vox.com/2015/2/8/7475667/27-fonts-give-or-take-that-explain-your-world)
 * [Fontjoy](http://fontjoy.com/) - Generate font combinations with deep learning
+* [Font Of Web](https://fontofweb.com) - Fonts from the most inspiring websites on the web
 * [Fonts In Use](https://fontsinuse.com/) - A public archive of typography
 * [Typewolf](https://www.typewolf.com/)
 
 ## Free fonts
 
 #### Collections
+* [Apple Fonts](https://developer.apple.com/fonts/) - Fonts for Apple platforms
 * [Fontshare](https://www.fontshare.com/) - A free fonts service launched by the Indian Type Foundry (ITF)
 * [Font Squirrel](https://www.fontsquirrel.com/) - A curated collection of free fonts from a variety of foundries
 * [Gidole](http://gidole.github.io/) - Open source, modern DIN
@@ -42,18 +44,19 @@ A curated list of fonts and typography resources.
 * [The Ultimate Oldschool PC Font Pack](http://int10h.org/oldschool-pc-fonts/) - A collection of text mode fonts, system fonts and BIOS fonts from DOS-era PCs
 * [USWDS](https://github.com/uswds) - U.S. Web Design System
   * [Public Sans](https://public-sans.digital.gov/)
-* [FontsKey](https://www.fontskey.com) - Provides free fonts for personal use and commercial paid fonts, and can enter text for quick filtering.
+* [FontsKey](https://www.fontskey.com) - Provides free fonts for personal use and commercial paid fonts, and can enter text for quick filtering
 
 #### Fonts
 * [Amstelvar](https://github.com/TypeNetwork/Amstelvar) - A parametric variable font
 * [AtF Spark](https://github.com/aftertheflood/sparks) - Font designed to create sparklines
 * [Barlow](https://github.com/jpt/barlow) - A grotesk variable font superfamily
 * [Inter](https://github.com/rsms/inter) - A typeface specially designed for user interfaces
-* [Libre Franklin](https://github.com/impallari/Libre-Franklin) - An interpretation and expansion based on Morris Fuller Benton’s 1912 classic.
+* [Libre Franklin](https://github.com/impallari/Libre-Franklin) - An interpretation and expansion based on Morris Fuller Benton’s 1912 classic
 * [Manrope](https://github.com/sharanda/manrope) - Modern geometric sans-serif
 * [Martian Mono](https://github.com/evilmartians/mono) - Free and open-source monospaced font from Evil Martians
 * [Monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 * [Open Baskerville](http://klepas.org/openbaskerville/)
+* [Optician Sans](https://optician-sans.com) - A free font based on the historical eye charts and optotypes used by opticians world wide
 * [Redacted](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
 * [SansBullshitSans](https://github.com/RoelN/SansBullshitSans)
 * [Urbanist](https://github.com/coreyhu/Urbanist) - Geometric sans-serif variable font
@@ -136,13 +139,16 @@ A curated list of fonts and typography resources.
 * [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
 * [Berkeley Mono](https://usgraphics.com/products/berkeley-mono) - a love letter to the golden era of computing
 * [Codeface](https://github.com/chrissimpkins/codeface) - Gallery of monospaced fonts for developers
+* [Classic Console](https://webdraft.hu/fonts/classic-console/)
 * [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans)
 * [Go Fonts](https://blog.golang.org/go-fonts) - Open source fonts from Golang Project
+* [JGS Font](https://adelfaure.net/tools/jgs/)
 * [Hack](https://github.com/source-foundry/Hack)
 * [Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
 * [Input](http://input.fontbureau.com) - Flexible system of fonts designed specifically for code
 * [Lab Mono](https://github.com/hatsumatsu/Lab-Mono) - Geometric monospaced typeface
 * [Meslo-Font](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font
+* [Miracode](https://github.com/IdreesInc/Miracode)
 * [Mononoki](http://madmalik.github.io/mononoki/)
 * [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
 * [Operator Mono](https://www.typography.com/fonts/operator/styles/) — A $200 premium programming typeface inspired by traditions of typewriting
