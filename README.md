@@ -52,7 +52,6 @@ A curated list of fonts and typography resources.
 * [Barlow](https://github.com/jpt/barlow) - A grotesk variable font superfamily
 * [Inter](https://github.com/rsms/inter) - A typeface specially designed for user interfaces
 * [Libre Franklin](https://github.com/impallari/Libre-Franklin) - An interpretation and expansion based on Morris Fuller Benton’s 1912 classic
-* [Manrope](https://github.com/sharanda/manrope) - Modern geometric sans-serif
 * [Martian Mono](https://github.com/evilmartians/mono) - Free and open-source monospaced font from Evil Martians
 * [Monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 * [Open Baskerville](http://klepas.org/openbaskerville/)
@@ -145,7 +144,6 @@ A curated list of fonts and typography resources.
 * [JGS Font](https://adelfaure.net/tools/jgs/)
 * [Hack](https://github.com/source-foundry/Hack)
 * [Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
-* [Input](http://input.fontbureau.com) - Flexible system of fonts designed specifically for code
 * [Lab Mono](https://github.com/hatsumatsu/Lab-Mono) - Geometric monospaced typeface
 * [Meslo-Font](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font
 * [Miracode](https://github.com/IdreesInc/Miracode)
@@ -153,7 +151,6 @@ A curated list of fonts and typography resources.
 * [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
 * [Operator Mono](https://www.typography.com/fonts/operator/styles/) — A $200 premium programming typeface inspired by traditions of typewriting
 * [Recursive Sans & Mono](https://github.com/arrowtype/recursive/) - A variable font family for code & UI
-* [Victor Mono](https://rubjo.github.io/victor-mono/)
 * [Iconic Fonts](https://github.com/iconicFonts/if) - Over 50 Patched Fonts with 60,000+ Icons for Terminal, Window Managers, and More!
 
 #### Programming fonts with ligatures
@@ -167,7 +164,6 @@ A curated list of fonts and typography resources.
 * [Lilex](https://github.com/mishamyrt/Lilex) - Modern programming font containing a set of ligatures for common programming multi-character combinations
 * [Monoid](https://github.com/larsenwork/monoid)
 * [PragmataPro](https://www.fsd.it/shop/fonts/pragmatapro/) - Proprietary font with special ligatures for Haskell, Agda, APL, etc
-* [Dank Mono](https://dank.sh/) — A premium programming font with Delightful ligatures and an italic variant
 * [Victor Mono](https://rubjo.github.io/victor-mono/) - A free programming font with semi-connected cursive italics, symbol ligatures and Latin, Cyrillic and Greek characters
 
 ## JavaScript libs
@@ -179,7 +175,6 @@ A curated list of fonts and typography resources.
 * [Lettering.js](https://github.com/davatron5000/Lettering.js)
 * [localFont](https://github.com/jaicab/localFont) - Save fonts in localStorage
 * [opentype.js](https://github.com/nodebox/opentype.js) - Parser and writer for TrueType and OpenType fonts
-* [Typefont](https://github.com/Sir-Vasile/Typefont) - Algorithm that tries to recognize the font of a text in a photo
 * [Typeset.js](https://github.com/davidmerfield/typeset) - HTML pre-processor for web typography
 * [Typr.js](https://github.com/photopea/Typr.js) - Parser and utility for working with fonts (TTF, OTF)
 
