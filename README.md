@@ -122,6 +122,7 @@ A curated list of fonts and typography resources.
 * [Simple Icons](https://simpleicons.org/) - 2287+ free SVG icons for popular brands
 * [stackicons](https://github.com/parkerbennett/stackicons) - Icon font and Sass-based construction kit for Stackicons-Social, which supports multiple button shapes and a unique "multi-color" option in CSS for over 60 social brands
 * [svg-icon](https://leungwensen.github.io/svg-icon/) - An ultimate SVG icons collection done right
+* [Teranoptia](https://www.tunera.xyz/fonts/teranoptia/) - A typeface that allows you to imagine chimeric creatures
 * [typicons.font](http://s-ings.com/typicons/) - 336 pixel perfect, all-purpose vector icons in a web-font kit
 * [weather-icons](http://erikflowers.github.io/weather-icons/) - 189 weather themed icons inspired by Font Awesome and ready for Bootstrap
 * [WebHostingHub Glyphs](https://github.com/whhglyphs/webhostinghub-glyphs)
