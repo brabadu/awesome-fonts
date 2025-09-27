@@ -155,7 +155,7 @@ A curated list of fonts and typography resources.
 * [Iconic Fonts](https://github.com/iconicFonts/if) - Over 50 Patched Fonts with 60,000+ Icons for Terminal, Window Managers, and More!
 
 #### Programming fonts with ligatures
-* [Cascadia Code](https://github.com/microsoft/cascadia-code) - Monospaced font by Miscrosoft designed to enhance the modern look and feel of the Windows Terminal
+* [Cascadia Code](https://github.com/microsoft/cascadia-code) - Monospaced font by Microsoft designed to enhance the modern look and feel of the Windows Terminal
 * [FiraCode](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures
 * [Fixedsys Excelsior](https://github.com/kika/fixedsys)
 * [Hasklig](https://github.com/i-tu/Hasklig)
