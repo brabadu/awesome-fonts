@@ -118,6 +118,7 @@ A curated list of fonts and typography resources.
 * [openwebicons](https://pfefferle.github.io/openwebicons/) - Because Font Awesome had no RSS-icon and a font with only one icon would be a bit boring
 * [PaymentFont](https://paymentfont.com/) - A sleek webfont containing 94 icons of all main payment operators and methods
 * [PE-Analog-Clock-icon-font](https://github.com/jhogue/PE-Analog-Clock-icon-font) - A set of icons for displaying a visual ("analog") representation of time stamps
+* [Simple Analog Clock Font](https://github.com/fshaxe/SimpleAnalogClockFont) - A True-Type font containing all 720 clock faces as glyphs, with multiple weights.
 * [Picon](https://yne.fr/picon) ~666 Pico-sized and ligature based icons + online font generator.
 * [Simple Icons](https://simpleicons.org/) - 2287+ free SVG icons for popular brands
 * [stackicons](https://github.com/parkerbennett/stackicons) - Icon font and Sass-based construction kit for Stackicons-Social, which supports multiple button shapes and a unique "multi-color" option in CSS for over 60 social brands
