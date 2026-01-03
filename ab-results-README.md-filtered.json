@@ -1,0 +1,413 @@
+[
+  {
+    "loc": 1,
+    "status": -1,
+    "link": "https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg",
+    "redirect": "",
+    "error": "Failed to open TCP connection to cdn.rawgit.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 17,
+    "status": -1,
+    "link": "https://www.vox.com/2015/2/8/7475667/27-fonts-give-or-take-that-explain-your-world",
+    "redirect": "",
+    "error": "Failed to open TCP connection to www.vox.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 18,
+    "status": -1,
+    "link": "http://fontjoy.com/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to fontjoy.com:80 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 19,
+    "status": -1,
+    "link": "https://fontofweb.com",
+    "redirect": "",
+    "error": "Failed to open TCP connection to fontofweb.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 20,
+    "status": -1,
+    "link": "https://fontsinuse.com/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to fontsinuse.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 21,
+    "status": -1,
+    "link": "https://www.typewolf.com/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to www.typewolf.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 26,
+    "status": -1,
+    "link": "https://developer.apple.com/fonts/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to developer.apple.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 27,
+    "status": -1,
+    "link": "https://www.fontshare.com/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to www.fontshare.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 28,
+    "status": -1,
+    "link": "https://www.fontsquirrel.com/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to www.fontsquirrel.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 29,
+    "status": -1,
+    "link": "http://gidole.github.io/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to gidole.github.io:80 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 30,
+    "status": -1,
+    "link": "https://fonts.google.com/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to fonts.google.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 36,
+    "status": -1,
+    "link": "https://www.theleagueofmoveabletype.com/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to www.theleagueofmoveabletype.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 37,
+    "status": -1,
+    "link": "https://www.theleagueofmoveabletype.com/chunk",
+    "redirect": "",
+    "error": "Failed to open TCP connection to www.theleagueofmoveabletype.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 38,
+    "status": -1,
+    "link": "https://www.theleagueofmoveabletype.com/junction",
+    "redirect": "",
+    "error": "Failed to open TCP connection to www.theleagueofmoveabletype.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 39,
+    "status": -1,
+    "link": "https://www.theleagueofmoveabletype.com/league-gothic",
+    "redirect": "",
+    "error": "Failed to open TCP connection to www.theleagueofmoveabletype.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 41,
+    "status": -1,
+    "link": "http://overpassfont.org/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to overpassfont.org:80 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 44,
+    "status": -1,
+    "link": "http://int10h.org/oldschool-pc-fonts/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to int10h.org:80 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 46,
+    "status": -1,
+    "link": "https://public-sans.digital.gov/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to public-sans.digital.gov:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 47,
+    "status": -1,
+    "link": "https://www.fontskey.com",
+    "redirect": "",
+    "error": "Failed to open TCP connection to www.fontskey.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 57,
+    "status": -1,
+    "link": "http://klepas.org/openbaskerville/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to klepas.org:80 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 58,
+    "status": -1,
+    "link": "https://optician-sans.com",
+    "redirect": "",
+    "error": "Failed to open TCP connection to optician-sans.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 101,
+    "status": -1,
+    "link": "http://evil-icons.io/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to evil-icons.io:80 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 103,
+    "status": -1,
+    "link": "https://fontawesome.com",
+    "redirect": "",
+    "error": "Failed to open TCP connection to fontawesome.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 106,
+    "status": -1,
+    "link": "http://fontello.com",
+    "redirect": "",
+    "error": "Failed to open TCP connection to fontello.com:80 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 107,
+    "status": -1,
+    "link": "http://fontello.github.io/brandico.font/demo.html",
+    "redirect": "",
+    "error": "Failed to open TCP connection to fontello.github.io:80 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 108,
+    "status": -1,
+    "link": "http://fontello.github.io/fontelico.font/demo.html",
+    "redirect": "",
+    "error": "Failed to open TCP connection to fontello.github.io:80 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 109,
+    "status": -1,
+    "link": "http://fontello.github.io/typicons.font/demo.html",
+    "redirect": "",
+    "error": "Failed to open TCP connection to fontello.github.io:80 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 110,
+    "status": -1,
+    "link": "https://icomoon.io",
+    "redirect": "",
+    "error": "Failed to open TCP connection to icomoon.io:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 112,
+    "status": -1,
+    "link": "https://saeedalipoor.github.io/icono/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to saeedalipoor.github.io:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 113,
+    "status": -1,
+    "link": "http://ionicons.com/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to ionicons.com:80 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 116,
+    "status": -1,
+    "link": "http://mfglabs.github.io/mfglabs-iconset/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to mfglabs.github.io:80 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 118,
+    "status": -1,
+    "link": "https://octicons.github.com/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to octicons.github.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 119,
+    "status": -1,
+    "link": "https://pfefferle.github.io/openwebicons/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to pfefferle.github.io:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 120,
+    "status": -1,
+    "link": "https://paymentfont.com/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to paymentfont.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 123,
+    "status": -1,
+    "link": "https://yne.fr/picon",
+    "redirect": "",
+    "error": "Failed to open TCP connection to yne.fr:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 124,
+    "status": -1,
+    "link": "https://simpleicons.org/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to simpleicons.org:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 126,
+    "status": -1,
+    "link": "https://leungwensen.github.io/svg-icon/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to leungwensen.github.io:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 127,
+    "status": -1,
+    "link": "https://www.tunera.xyz/fonts/teranoptia/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to www.tunera.xyz:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 128,
+    "status": -1,
+    "link": "http://s-ings.com/typicons/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to s-ings.com:80 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 129,
+    "status": -1,
+    "link": "http://erikflowers.github.io/weather-icons/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to erikflowers.github.io:80 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 136,
+    "status": -1,
+    "link": "http://adobe-fonts.github.io/source-code-pro/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to adobe-fonts.github.io:80 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 141,
+    "status": -1,
+    "link": "https://www.marksimonson.com/fonts/view/anonymous-pro",
+    "redirect": "",
+    "error": "Failed to open TCP connection to www.marksimonson.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 142,
+    "status": -1,
+    "link": "https://usgraphics.com/products/berkeley-mono",
+    "redirect": "",
+    "error": "Failed to open TCP connection to usgraphics.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 144,
+    "status": -1,
+    "link": "https://webdraft.hu/fonts/classic-console/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to webdraft.hu:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 146,
+    "status": -1,
+    "link": "https://blog.golang.org/go-fonts",
+    "redirect": "",
+    "error": "Failed to open TCP connection to blog.golang.org:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 147,
+    "status": -1,
+    "link": "https://adelfaure.net/tools/jgs/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to adelfaure.net:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 149,
+    "status": -1,
+    "link": "http://levien.com/type/myfonts/inconsolata.html",
+    "redirect": "",
+    "error": "Failed to open TCP connection to levien.com:80 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 153,
+    "status": -1,
+    "link": "http://madmalik.github.io/mononoki/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to madmalik.github.io:80 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 155,
+    "status": -1,
+    "link": "https://www.typography.com/fonts/operator/styles/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to www.typography.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 166,
+    "status": -1,
+    "link": "https://www.jetbrains.com/lp/mono/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to www.jetbrains.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 169,
+    "status": -1,
+    "link": "https://www.fsd.it/shop/fonts/pragmatapro/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to www.fsd.it:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 170,
+    "status": -1,
+    "link": "https://rubjo.github.io/victor-mono/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to rubjo.github.io:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 174,
+    "status": -1,
+    "link": "http://pomax.nihongoresources.com/pages/Font.js/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to pomax.nihongoresources.com:80 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 175,
+    "status": -1,
+    "link": "https://fontkit-demo.now.sh/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to fontkit-demo.now.sh:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 200,
+    "status": -1,
+    "link": "https://pagecdn.com/lib/easyfonts",
+    "redirect": "",
+    "error": "Failed to open TCP connection to pagecdn.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 201,
+    "status": -1,
+    "link": "https://www.fontsquirrel.com/tools/webfont-generator",
+    "redirect": "",
+    "error": "Failed to open TCP connection to www.fontsquirrel.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 208,
+    "status": -1,
+    "link": "https://licensebuttons.net/p/zero/1.0/88x31.png",
+    "redirect": "",
+    "error": "Failed to open TCP connection to licensebuttons.net:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 208,
+    "status": -1,
+    "link": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to creativecommons.org:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 46,
+    "link": "https://public-sans.digital.gov/",
+    "error": "Dupe"
+  }
+]

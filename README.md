@@ -56,6 +56,7 @@ A curated list of fonts and typography resources.
 * [Monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 * [Open Baskerville](http://klepas.org/openbaskerville/)
 * [Optician Sans](https://optician-sans.com) - A free font based on the historical eye charts and optotypes used by opticians world wide
+* [Public Sans](https://public-sans.digital.gov/) - A strong, neutral typeface for interfaces, text, and headings
 * [Redacted](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
 * [SansBullshitSans](https://github.com/RoelN/SansBullshitSans)
 * [Urbanist](https://github.com/coreyhu/Urbanist) - Geometric sans-serif variable font
