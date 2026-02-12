@@ -147,6 +147,7 @@ A curated list of fonts and typography resources.
 * [Hack](https://github.com/source-foundry/Hack)
 * [Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
 * [Lab Mono](https://github.com/hatsumatsu/Lab-Mono) - Geometric monospaced typeface
+* [Maple Mono](https://font.subf.dev/en/) - Smooth your coding flow
 * [Meslo-Font](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font
 * [Miracode](https://github.com/IdreesInc/Miracode)
 * [Mononoki](http://madmalik.github.io/mononoki/)
