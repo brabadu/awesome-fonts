@@ -2,6 +2,7 @@
 
 A curated list of fonts and typography resources.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for font and typography development orchestration, automated design workflow, and multi-agent coordination. MIT licensed.
 ## Contents
 
 1. [General](#general)
