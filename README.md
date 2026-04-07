@@ -197,6 +197,7 @@ A curated list of fonts and typography resources.
 
 ## Other
 * [Command line font-manager](https://github.com/alyssais/font)
+* [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw
 * [fnt](https://github.com/alexmyczko/fnt) - Apt for fonts, the missing font manager for macOS/linux
 * [Easy Fonts](https://pagecdn.com/lib/easyfonts) - Makes webfonts easy to use for developers
 * [Font Squirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) - Upload OTF or TTF fonts, receive webfonts
