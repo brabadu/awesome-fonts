@@ -13,6 +13,7 @@ A curated list of fonts and typography resources.
 1. [GitHub Showcases](#github-showcases)
 1. [Other](#other)
 
+- [Inter](https://github.com/rsms/inter) - A typeface specially designed for computer screens.
 ## General
 * [27 fonts (give or take) that explain your world](https://www.vox.com/2015/2/8/7475667/27-fonts-give-or-take-that-explain-your-world)
 * [FontAlternatives](https://fontalternatives.com/) - Free alternatives to premium fonts with visual comparisons
