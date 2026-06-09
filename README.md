@@ -30,6 +30,7 @@ A curated list of fonts and typography resources.
 * [Apple Fonts](https://developer.apple.com/fonts/) - Fonts for Apple platforms
 * [Fontshare](https://www.fontshare.com/) - A free fonts service launched by the Indian Type Foundry (ITF)
 * [Font Squirrel](https://www.fontsquirrel.com/) - A curated collection of free fonts from a variety of foundries
+* [FontBoxDL](https://fontboxdl.com/) - A free font library with 60,000+ typefaces, instant download, no signup
 * [Gidole](http://gidole.github.io/) - Open source, modern DIN
 * [Google Fonts](https://fonts.google.com/)
   * [Downloader for Google Fonts](https://github.com/qrpike/Web-Font-Load)
