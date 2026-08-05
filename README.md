@@ -23,6 +23,7 @@ A curated list of fonts and typography resources.
 * [Fonts In Use](https://fontsinuse.com/) - A public archive of typography
 * [FontsWiki](https://fontswiki.com/) - Free font downloads, pairing guides, and font-in-use references for logos, movies, games, and design projects
 * [Typewolf](https://www.typewolf.com/)
+* [CopyFont](https://copyfont.com) - Free Unicode text generator, bold, italic, gothic, cursive, bubble and 40+ other copy-paste styles for social media, no font install required.
 
 ## Free fonts
 
