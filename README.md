@@ -23,6 +23,7 @@ A curated list of fonts and typography resources.
 * [Fonts In Use](https://fontsinuse.com/) - A public archive of typography
 * [FontsWiki](https://fontswiki.com/) - Free font downloads, pairing guides, and font-in-use references for logos, movies, games, and design projects
 * [Typewolf](https://www.typewolf.com/)
+* [TypeGleam](https://typegleam.com/tools/) - Free collection of text and font generator tools (cursive, wingdings, glitch, invisible text, superscript/subscript, and more) with instant copy-paste output.
 
 ## Free fonts
 
