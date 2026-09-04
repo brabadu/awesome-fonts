@@ -64,6 +64,7 @@ A curated list of fonts and typography resources.
 * [Redacted](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
 * [SansBullshitSans](https://github.com/RoelN/SansBullshitSans)
 * [Urbanist](https://github.com/coreyhu/Urbanist) - Geometric sans-serif variable font
+* [Vigil](https://github.com/vigilantkeno/vigilfont) - A softened geometric grotesk for body copy, rounded by hierarchy rather than uniformly
 * [WorkSans](https://github.com/weiweihuanghuang/Work-Sans)
 
 
