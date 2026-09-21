@@ -65,6 +65,7 @@ A curated list of fonts and typography resources.
 * [SansBullshitSans](https://github.com/RoelN/SansBullshitSans)
 * [Urbanist](https://github.com/coreyhu/Urbanist) - Geometric sans-serif variable font
 * [Vigil](https://github.com/vigilantkeno/vigilfont) - A softened geometric grotesk for body copy, rounded by hierarchy rather than uniformly
+* [Vigil Serif](https://www.vigilfont.com/serif) - A text serif drawn to pair with Vigil, sharing its cap height, x-height and line box
 * [WorkSans](https://github.com/weiweihuanghuang/Work-Sans)
 
 
