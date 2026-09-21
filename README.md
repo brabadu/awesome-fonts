@@ -23,6 +23,7 @@ A curated list of fonts and typography resources.
 * [Fonts In Use](https://fontsinuse.com/) - A public archive of typography
 * [FontsWiki](https://fontswiki.com/) - Free font downloads, pairing guides, and font-in-use references for logos, movies, games, and design projects
 * [Typewolf](https://www.typewolf.com/)
+* [WhatFontIs-Bench](https://github.com/whatfontis/WhatFontIs-Bench) - Open benchmark dataset for font identification: 11,995 images of words set in 600 known fonts on real surfaces and scenes
 
 ## Free fonts
 
