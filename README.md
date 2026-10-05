@@ -10,6 +10,7 @@ A curated list of fonts and typography resources.
 1. [Iconic fonts](#iconic-fonts)
 1. [Programming fonts](#programming-fonts)
 1. [JavaScript libs](#javascript-libs)
+1. [Awesome lists](#awesome-lists)
 1. [GitHub Showcases](#github-showcases)
 1. [Other](#other)
 
