@@ -216,4 +216,4 @@ A curated list of fonts and typography resources.
 
 ## Contribution
 
-Feel free to make a pull request. [Click here to read the guidelines](https://github.com/willianjusten/awesome-svg/blob/master/contributing.md).
+Feel free to make a pull request. Please read the [contribution guidelines](CONTRIBUTING.md) first.
