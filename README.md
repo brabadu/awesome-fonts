@@ -24,6 +24,7 @@ A curated list of fonts and typography resources.
 * [FontsWiki](https://fontswiki.com/) - Free font downloads, pairing guides, and font-in-use references for logos, movies, games, and design projects
 * [font-contrast](https://github.com/ayaanahad/font-contrast) - Measured x-height, cap height and real advance width for 54 open-source families, read from the font binaries. CC0 dataset.
 * [Typewolf](https://www.typewolf.com/)
+* [WhatFontIs-Bench](https://github.com/whatfontis/WhatFontIs-Bench) - Open benchmark dataset for font identification: 11,995 images of words set in 600 known fonts on real surfaces and scenes
 
 ## Free fonts
 
