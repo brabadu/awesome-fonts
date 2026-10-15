@@ -58,7 +58,6 @@ A curated list of fonts and typography resources.
 * [Martian Mono](https://github.com/evilmartians/mono) - Free and open-source monospaced font from Evil Martians
 * [Monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 * [Open Baskerville](http://klepas.org/openbaskerville/)
-* [Optician Sans](https://optician-sans.com) - A free font based on the historical eye charts and optotypes used by opticians world wide
 * [Redacted](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
 * [SansBullshitSans](https://github.com/RoelN/SansBullshitSans)
 * [Urbanist](https://github.com/coreyhu/Urbanist) - Geometric sans-serif variable font
