@@ -202,6 +202,7 @@ A curated list of fonts and typography resources.
 * [Easy Fonts](https://pagecdn.com/lib/easyfonts) - Makes webfonts easy to use for developers
 * [Font Squirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) - Upload OTF or TTF fonts, receive webfonts
 * [FontForge](https://github.com/fontforge/fontforge) - Cross-platform font editor
+* [Glim](https://github.com/NeoPanic/Glim) - Open-source macOS font viewer for TTF, OTF and font collections, with glyph inspection and custom text samples; does not install fonts.
 * [Powerline Fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users
 * [TruFont](https://github.com/trufont/trufont) - a streamlined and hackable font editor
 
