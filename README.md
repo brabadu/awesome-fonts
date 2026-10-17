@@ -100,7 +100,6 @@ A curated list of fonts and typography resources.
 * [Appa Sariicon](https://github.com/sariina/appa-sariicon) - 147 8-bit retro style webfont icons form web and mobile
 * [Country Icons](https://github.com/lipis/flag-icon-css) - A collection of all country flags in SVG and CSS
 * [Crypto animal font](https://github.com/ariassd/crypto-animal-font) - This font translates alphabet characters into symbols. The english ordered version uses animals matching the first letter of their name.
-* [Evil Icons](http://evil-icons.io/) Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN
 * [Font Custom](https://github.com/FontCustom/fontcustom) - Icon font generator
 * [Font-Awesome](https://fontawesome.com) - The iconic font and CSS toolkit
 * [font-mfizz](https://github.com/fizzed/font-mfizz) - Vector Icons for Technology and Software Geeks
