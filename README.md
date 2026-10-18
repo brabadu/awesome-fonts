@@ -16,7 +16,6 @@ A curated list of fonts and typography resources.
 ## General
 * [27 fonts (give or take) that explain your world](https://www.vox.com/2015/2/8/7475667/27-fonts-give-or-take-that-explain-your-world)
 * [Fontjoy](http://fontjoy.com/) - Generate font combinations with deep learning
-* [Font Of Web](https://fontofweb.com) - Fonts from the most inspiring websites on the web
 * [Fonts In Use](https://fontsinuse.com/) - A public archive of typography
 * [font-contrast](https://github.com/ayaanahad/font-contrast) - Measured x-height, cap height and real advance width for 54 open-source families, read from the font binaries. CC0 dataset.
 * [Typewolf](https://www.typewolf.com/)
