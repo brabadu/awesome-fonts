@@ -44,8 +44,7 @@ A curated list of fonts and typography resources.
 * [Plex](https://github.com/IBM/plex) - IBM's open source font
 * [The Ultimate Oldschool PC Font Pack](http://int10h.org/oldschool-pc-fonts/) - A collection of text mode fonts, system fonts and BIOS fonts from DOS-era PCs
 * [USWDS](https://github.com/uswds) - U.S. Web Design System
-  * [Public Sans](https://public-sans.digital.gov/)
-* [FontsKey](https://www.fontskey.com) - Provides free fonts for personal use and commercial paid fonts, and can enter text for quick filtering
+  * [Public Sans](https://github.com/uswds/public-sans)
 
 #### Fonts
 * [Amstelvar](https://github.com/TypeNetwork/Amstelvar) - A parametric variable font
@@ -56,7 +55,7 @@ A curated list of fonts and typography resources.
 * [Libre Franklin](https://github.com/impallari/Libre-Franklin) - An interpretation and expansion based on Morris Fuller Benton’s 1912 classic
 * [Martian Mono](https://github.com/evilmartians/mono) - Free and open-source monospaced font from Evil Martians
 * [Monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
-* [Open Baskerville](http://klepas.org/openbaskerville/)
+* [Open Baskerville](https://github.com/klepas/open-baskerville)
 * [Redacted](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
 * [SansBullshitSans](https://github.com/RoelN/SansBullshitSans)
 * [Urbanist](https://github.com/coreyhu/Urbanist) - Geometric sans-serif variable font
@@ -197,7 +196,6 @@ A curated list of fonts and typography resources.
 ## Other
 * [Command line font-manager](https://github.com/alyssais/font)
 * [fnt](https://github.com/alexmyczko/fnt) - Apt for fonts, the missing font manager for macOS/linux
-* [Easy Fonts](https://pagecdn.com/lib/easyfonts) - Makes webfonts easy to use for developers
 * [Font Squirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) - Upload OTF or TTF fonts, receive webfonts
 * [FontForge](https://github.com/fontforge/fontforge) - Cross-platform font editor
 * [Powerline Fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users
