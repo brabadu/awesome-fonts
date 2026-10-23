@@ -92,6 +92,7 @@ A curated list of fonts and typography resources.
 * [mojime](https://github.com/JuanitoFatas/mojime) - Outputs random emojis
 * [php-emoji](https://github.com/iamcal/php-emoji) - A PHP Emoji conversion library
 * [twemoji](https://github.com/twitter/twemoji) - Twitter Emoji for Everyone
+* [Xero Emoji](https://github.com/maximusmaximus/xeroemoji) - 3,963 original emoji (full Unicode 18.0) as SVG and 512px PNG
 * [vim-emoji](https://github.com/junegunn/vim-emoji) - Emoji in Vim
 
 ## Iconic fonts
