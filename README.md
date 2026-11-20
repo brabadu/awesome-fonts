@@ -196,6 +196,7 @@ A curated list of fonts and typography resources.
 
 ## Other
 * [Command line font-manager](https://github.com/alyssais/font)
+* [Ductus](https://ductus.sorenblank.com/) - Turn your own handwriting into a font right in the browser
 * [fnt](https://github.com/alexmyczko/fnt) - Apt for fonts, the missing font manager for macOS/linux
 * [Font Squirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) - Upload OTF or TTF fonts, receive webfonts
 * [FontForge](https://github.com/fontforge/fontforge) - Cross-platform font editor
