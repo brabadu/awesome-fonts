@@ -172,7 +172,7 @@ A curated list of fonts and typography resources.
 
 ## JavaScript libs
 * [Beatrix](https://github.com/funbox/beatrix) - A tool to chop off useless fonts glyphs and convert TTF/OTF into WOFF & WOFF2
-* [Font.js](http://pomax.nihongoresources.com/pages/Font.js/)
+* [Font.js](https://github.com/Pomax/Font.js)
 * [fontkit](https://github.com/devongovett/fontkit) - An advanced font engine for Node and the browser ([demo](https://fontkit-demo.now.sh/))
 * [fontmin](https://github.com/ecomfe/fontmin) - Font minifier
 * [Fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages
